@@ -1,5 +1,5 @@
+// Removed unused import 'Header'
 import { Store } from "@/@types/Store";
-import Header from "@/components/Header";
 import List from "@/components/List";
 import fs from 'fs'
 import path from "path";
@@ -9,8 +9,7 @@ import StoreDetailsDialog from "@/components/StoreDetailsDialog";
 export default async function Home() {
   const filePath = path.join(process.cwd(), 'public', 'data', 'stores.json')
   const json = fs.readFileSync(filePath, 'utf-8')
-  const stores: Store[] = JSON.parse(json)
-  
+  const stores: Store[] = JSON.parse(json)  
 
   return (
     <div className="container mx-auto">

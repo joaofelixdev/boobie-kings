@@ -4,14 +4,13 @@ import { useState, useEffect } from 'react';
 import { useStore } from '@/stores/useStore';
 import { fredoka, inter } from '@/app/layout';
 import Image from 'next/image';
-import { StoreIcon, BanIcon, CheckIcon, Palette } from 'lucide-react';
+import { BanIcon, CheckIcon, Palette } from 'lucide-react';
 import {
   Dialog,
   DialogContent,
   DialogHeader,
   DialogTitle,
   DialogDescription,
-  DialogClose,
 } from '@/components/ui/dialog';
 import { Badge } from './ui/badge';
 
