@@ -1,0 +1,228 @@
+[
+  {
+    "id": "fs-atibaia-12942020",
+    "name": "FS ATIBAIA",
+    "address": "Al. Prof. Lucas Nogueira Garcez, 3586",
+    "city": "Atibaia",
+    "zip": "12942-020",
+    "available": true
+  },
+  {
+    "id": "ilr-sp-01228100",
+    "name": "ILR SP",
+    "address": "Av. Angélica, 1076",
+    "city": "São Paulo",
+    "zip": "01228-100",
+    "available": true,
+    "kit": true
+  },
+  {
+    "id": "shopping-jk-iguatemi-04543011",
+    "name": "SHOPPING JK IGUATEMI",
+    "address": "Av. Presidente Juscelino Kubitschek, 2041",
+    "city": "São Paulo",
+    "zip": "04543-011",
+    "available": true
+  },
+  {
+    "id": "fs-sp-04026-002",
+    "name": "FS SP",
+    "address": "Av Jose Maria Whitaker, 418",
+    "city": "São Paulo",
+    "zip": "04026-002",
+    "available": false
+  },
+  {
+    "id": "shopping-mooca-plaza-03126-000",
+    "name": "SHOPPING MOOCA PLAZA",
+    "address": "R. Capitão Pacheco E Chaves, 313",
+    "city": "São Paulo",
+    "zip": "03126-000",
+    "available": true
+  },
+  {
+    "id": "ilr-sp-r-augusta-2611-01493000",
+    "name": "ILR SP - R. AUGUSTA, 2611",
+    "address": "R. Augusta, 2611",
+    "city": "São Paulo",
+    "zip": "01493-000",
+    "available": true
+  },
+  {
+    "id": "fz-fc-são-paulo-paseo-alto-das-nações-04301-011",
+    "name": "FZ - FC SÃO PAULO PASEO ALTO DAS NAÇÕES",
+    "address": "Av. Ibirapuera, 3103",
+    "city": "São Paulo",
+    "zip": "04301-011",
+    "available": true
+  },
+  {
+    "id": "ilr-sp-av-pedroso-de-morais-1556-05420-011",
+    "name": "ILR SP - AV. PEDROSO DE MORAIS, 1556",
+    "address": "Av. Pedroso de Morais, 1556",
+    "city": "São Paulo",
+    "zip": "05420-011",
+    "available": true
+  },
+  {
+    "id": "ilr-sp-r-cerro-corá-1556-05008-050",
+    "name": "ILR SP - R. CERRO CORÁ, 1556",
+    "address": "R. Cerro Corá, 1556",
+    "city": "São Paulo",
+    "zip": "05008-050",
+    "available": true
+  },
+  {
+    "id": "caxias-shop-25070-210",
+    "name": "CAXIAS SHOP",
+    "address": "Av. Brigadeiro Lima e Silva, 250",
+    "city": "Duque de Caxias",
+    "zip": "25070-210",
+    "available": true
+  },
+  {
+    "id": "fs-duque-de-caxias-25070-210",
+    "name": "FS DUQUE DE CAXIAS",
+    "address": "Av. Brigadeiro Lima e Silva, 250",
+    "city": "Duque de Caxias",
+    "zip": "25070-210",
+    "available": true
+  },
+  {
+    "id": "ilr-rj-r-senador-dantas-177-20031-020",
+    "name": "ILR RJ - R. SENADOR DANTAS, 177",
+    "address": "R. Senador Dantas, 177",
+    "city": "Rio de Janeiro",
+    "zip": "20031-020",
+    "available": true
+  },
+  {
+    "id": "ils-via-brasil-shop-rj-21070-000",
+    "name": "ILS VIA BRASIL SHOP RJ",
+    "address": "Av. das Américas, 3900",
+    "city": "Rio de Janeiro",
+    "zip": "21070-000",
+    "available": true
+  },
+  {
+    "id": "shop-grande-rio-ii-23061-010",
+    "name": "SHOP GRANDE RIO II",
+    "address": "Av. Mal. Câmara, 123",
+    "city": "Cabo Frio",
+    "zip": "23061-010",
+    "available": true
+  },
+  {
+    "id": "fs-rj-estrada-da-cachamorra-20000-000",
+    "name": "FS - RJ ESTRADA DA CACHAMORRA, 200",
+    "address": "Estrada da Cachamorra, 200",
+    "city": "Rio de Janeiro",
+    "zip": "20000-000",
+    "available": true
+  },
+  {
+    "id": "shop-sao-goncalo-24400-230",
+    "name": "SHOP SAO GONCALO",
+    "address": "Av. Presidente Kennedy, 2000",
+    "city": "São Gonçalo",
+    "zip": "24400-230",
+    "available": true
+  },
+  {
+    "id": "shop-boulevard-rio-24420-215",
+    "name": "SHOP BOULEVARD RIO",
+    "address": "R. Presidente Roosevelt, 1234",
+    "city": "Niterói",
+    "zip": "24420-215",
+    "available": true
+  },
+  {
+    "id": "ilr-rj-r-general-roca-675-20930-150",
+    "name": "ILR RJ - R. GENERAL ROCA, 675",
+    "address": "R. General Roca, 675",
+    "city": "Rio de Janeiro",
+    "zip": "20930-150",
+    "available": true
+  },
+  {
+    "id": "fs-sp-av-anhaia-mello-1242-03941-000",
+    "name": "FS SP - AV ANHAIA MELLO 1242",
+    "address": "Av. Anhaia Mello, 1242",
+    "city": "São Paulo",
+    "zip": "03941-000",
+    "available": true
+  },
+  {
+    "id": "fs-sp-av-dumont-villares-1159-03801-030",
+    "name": "FS SP - AV DUMONT VILLARES 1159",
+    "address": "Av. Dumont Vilares, 1159",
+    "city": "São Paulo",
+    "zip": "03801-030",
+    "available": true
+  },
+  {
+    "id": "fs-sp-radial-leste-1884-03410-000",
+    "name": "FS SP - RADIAL LESTE 1884",
+    "address": "Radial Leste, 1884",
+    "city": "São Paulo",
+    "zip": "03410-000",
+    "available": true
+  },
+  {
+    "id": "ilr-sp-av-paulista-633-01311-100",
+    "name": "ILR SP - AV PAULISTA 633",
+    "address": "Av. Paulista, 633",
+    "city": "São Paulo",
+    "zip": "01311-100",
+    "available": true,
+    "kit": true
+  },
+  {
+    "id": "shop-metro-boulevard-tatuape-03066-030",
+    "name": "SHOP METRO BOULEVARD TATUAPE",
+    "address": "Av. Salim Farah Maluf, 300",
+    "city": "São Paulo",
+    "zip": "03066-030",
+    "available": true
+  },
+  {
+    "id": "santana-park-shop-02411-100",
+    "name": "SANTANA PARK SHOP",
+    "address": "Av. Luiz Dumont Villares, 579",
+    "city": "São Paulo",
+    "zip": "02411-100",
+    "available": true
+  },
+  {
+    "id": "bourbon-shop-sp-04532-000",
+    "name": "BOURBON SHOP SP",
+    "address": "Av. Ibirapuera, 3003",
+    "city": "São Paulo",
+    "zip": "04532-000",
+    "available": true
+  },
+  {
+    "id": "shop-d-04743-000",
+    "name": "SHOP D",
+    "address": "Av. das Nações Unidas, 12.345",
+    "city": "São Paulo",
+    "zip": "04743-000",
+    "available": true
+  },
+  {
+    "id": "shop-taboao-06768-200",
+    "name": "SHOP TABOAO",
+    "address": "Rod. Régis Bittencourt Km 271,5",
+    "city": "Taboão da Serra",
+    "zip": "06768-200",
+    "available": true
+  },
+  {
+    "id": "shop-itapevi-center-06683-000",
+    "name": "SHOP ITAPEVI CENTER",
+    "address": "Rod. Engenheiro Renê Benedito Da Silva, 200",
+    "city": "Itapevi",
+    "zip": "06683-000",
+    "available": true
+  }
+]
