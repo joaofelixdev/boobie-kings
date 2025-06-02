@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from 'react';
 import { useStore } from '@/stores/useStore';
-import { fredoka, inter } from '@/app/layout';
 import Image from 'next/image';
 import { BanIcon, CheckIcon, Palette } from 'lucide-react';
 import {
@@ -17,6 +16,17 @@ import { Badge } from './ui/badge';
 import logoGoogleMaps from '@/../public/images/icon-google-maps.svg';
 import logoUber from '@/../public/images/icons-uber.svg';
 import logoWaze from '@/../public/images/icons-waze.svg';
+import { Inter, Fredoka } from "next/font/google";
+
+const inter = Inter({
+  variable: "--font-inter",
+  subsets: ["latin"],
+});
+
+const fredoka = Fredoka({
+  variable: "--font-fredoka",
+  subsets: ["latin"],
+});
 
 export default function StoreDetailsDialog() {
   const store = useStore((s) => s.selectedStore);

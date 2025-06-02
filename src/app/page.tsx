@@ -9,7 +9,8 @@ import StoreDetailsDialog from "@/components/StoreDetailsDialog";
 export default async function Home() {
   const filePath = path.join(process.cwd(), 'public', 'data', 'stores.json')
   const json = fs.readFileSync(filePath, 'utf-8')
-  const stores: Store[] = JSON.parse(json)  
+  const stores: Store[] = JSON.parse(json)
+  
 
   return (
     <div className="container mx-auto">

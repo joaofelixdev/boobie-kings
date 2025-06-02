@@ -3,12 +3,19 @@
 import Image from 'next/image'
 
 import bkBoobieGoods from '@/../public/images/bk-boobie-goods.png'
-import { fredoka } from '@/app/layout'
+
 import { useStore } from '../stores/useStore'
+import { Fredoka } from 'next/font/google';
+
+
+const fredoka = Fredoka({
+    variable: "--font-fredoka",
+    subsets: ["latin"],
+});
 
 export default function Header() {
     const availableCount = useStore((state) => state.getAvailableCount());
-    
+
     return (
         <header
             className='container mx-auto w-full h-[100px] flex gap-6 items-center font-inter'

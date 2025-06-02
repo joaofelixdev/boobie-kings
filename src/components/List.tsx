@@ -1,13 +1,18 @@
 "use client"
 
 import { useState, useMemo, useEffect } from "react"
-import { fredoka } from "@/app/layout"
 import { Input } from "./ui/input"
 import { Button } from "./ui/button"
 import { AArrowDown, AArrowUp } from "lucide-react"
 import type { Store } from "@/@types/Store"
 import { useStore } from "@/stores/useStore"
 import { SelectNative } from "./ui/select-native"
+import { Fredoka } from "next/font/google"
+
+const fredoka = Fredoka({
+  variable: "--font-fredoka",
+  subsets: ["latin"],
+});
 
 interface Props {
   stores: Store[]

@@ -3,12 +3,12 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Warning from "@/components/Warning";
 
-export const inter = Inter({
+const inter = Inter({
   variable: "--font-inter",
   subsets: ["latin"],
 });
 
-export const fredoka = Fredoka({
+const fredoka = Fredoka({
   variable: "--font-fredoka",
   subsets: ["latin"],
 });
