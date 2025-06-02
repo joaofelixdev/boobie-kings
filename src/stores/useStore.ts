@@ -47,7 +47,7 @@ export const useStore = create<StoreState>((set, get) => ({
 
   getAvailable: () => get().stores.filter((s: Store) => s.available),
   
-  getAvailableCount: () => get().stores.filter((store: Store) => store.available).length,
+  getAvailableCount: () => get().stores.length,
 
   getCities: () =>
     get().stores.map((s) => s.city).filter((c, i, a) => a.indexOf(c) === i),
