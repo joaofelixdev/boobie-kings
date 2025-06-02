@@ -16,16 +16,16 @@ import { Badge } from './ui/badge';
 import logoGoogleMaps from '@/../public/images/icon-google-maps.svg';
 import logoUber from '@/../public/images/icons-uber.svg';
 import logoWaze from '@/../public/images/icons-waze.svg';
-import { Inter, Fredoka } from "next/font/google";
+import { Inter, Fredoka } from 'next/font/google';
 
 const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
+  variable: '--font-inter',
+  subsets: ['latin'],
 });
 
 const fredoka = Fredoka({
-  variable: "--font-fredoka",
-  subsets: ["latin"],
+  variable: '--font-fredoka',
+  subsets: ['latin'],
 });
 
 export default function StoreDetailsDialog() {
@@ -54,7 +54,7 @@ export default function StoreDetailsDialog() {
 
   const encode = (address: string) => encodeURIComponent(address);
 
-  if (!isMobile) return null
+  if (!isMobile) return null;
 
   return (
     <Dialog
@@ -73,28 +73,31 @@ export default function StoreDetailsDialog() {
           >
             {store ? store.name : 'Loja não encontrada'}
           </DialogTitle>
-          <DialogDescription>
-            {store ? (
-              <div className="">
-                {/* Endereço e cidade */}
-                <span className={`${inter.className} text-lg break-words`}>
-                  {store.address}
-                </span>
-                <span className={`${inter.className} text-sm`}>
-                  {store.city + ', ' + store.zip}
-                </span>
-                {/* {store.lat && store.lng && (
-                  <span className={`${inter.className} text-sm`}>
-                    Coordenadas: {store.lat}, {store.lng}
+
+          {/*
+            → Aqui: forçamos o DialogDescription a renderizar como <div>,
+            usando a prop `asChild`. Dentro dele, todo o conteúdo fica num <div>.
+          */}
+          <DialogDescription asChild>
+            <div>
+              {store ? (
+                <div className='flex flex-col'>
+                  {/* Endereço e cidade */}
+                  <span className={`${inter.className} text-lg break-words`}>
+                    {store.address}
                   </span>
-                )} */}
-              </div>
-            ) : (
-              <div className={`${inter.className} text-lg break-words`}>
-                Loja não encontrada
-              </div>
-            )}
+                  <span className={`${inter.className} text-sm`}>
+                    {store.city + ', ' + store.zip}
+                  </span>
+                </div>
+              ) : (
+                <div className={`${inter.className} text-lg break-words`}>
+                  Loja não encontrada
+                </div>
+              )}
+            </div>
           </DialogDescription>
+
           <hr className="my-4 border-gray-300" />
 
           {/* Como chegar */}
@@ -157,19 +160,28 @@ export default function StoreDetailsDialog() {
           {/* Status e badges */}
           <div className="flex gap-2">
             {store?.available ? (
-              <Badge variant="outline" className="flex items-center gap-1 bg-emerald-400 text-white">
+              <Badge
+                variant="outline"
+                className="flex items-center gap-1 bg-emerald-400 text-white"
+              >
                 <CheckIcon size={12} aria-hidden="true" />
                 Disponível
               </Badge>
             ) : (
-              <Badge variant="outline" className="flex items-center gap-1 bg-red-700 text-white">
+              <Badge
+                variant="outline"
+                className="flex items-center gap-1 bg-red-700 text-white"
+              >
                 <BanIcon size={12} aria-hidden="true" />
                 Esgotado
               </Badge>
             )}
 
             {store?.available && store?.kit && (
-              <Badge variant="outline" className="flex items-center gap-1 bg-fuchsia-500 text-white">
+              <Badge
+                variant="outline"
+                className="flex items-center gap-1 bg-fuchsia-500 text-white"
+              >
                 <Palette size={12} aria-hidden="true" />
                 Kit Faber Castel
               </Badge>

@@ -2,6 +2,7 @@ import { Inter, Fredoka } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
 import Warning from "@/components/Warning";
+import ScrollTop from "@/components/ScrollTop";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -26,6 +27,7 @@ export default function RootLayout({
         <Warning />
         <Header />
         {children}
+        <ScrollTop />
       </body>
     </html>
   );
