@@ -1,1086 +1,1086 @@
 {
   "metadata": {
-    "updated_at": "2025-06-03T00:05:18.976Z"
+    "updated_at": "2025-06-03T00:12:03.027Z"
   },
   "data": [
     {
-      "id": "bkn-restaurante-",
-      "name": "BKN",
-      "address": "RESTAURANTE",
-      "city": "ENDEREÇO",
-      "zip": "CIDADE",
-      "available": false
-    },
-    {
-      "id": "22663-fs-atibaia-al-prof-lucas-nogueira-garcez-3586-",
-      "name": "22663",
-      "address": "FS ATIBAIA - AL. PROF. LUCAS NOGUEIRA GARCEZ, 3586",
-      "city": "Al. Prof. Lucas Nogueira Garcez, 3586",
-      "zip": "Atibaia",
-      "available": false
-    },
-    {
-      "id": "25793-ilr-sp-av-angelica-1076-",
-      "name": "25793",
-      "address": "ILR SP - AV. ANGÉLICA, 1076",
-      "city": "Av. Angélica, 1076",
-      "zip": "São Paulo",
-      "available": false
-    },
-    {
-      "id": "18554-shopping-jk-iguatemi-",
-      "name": "18554",
-      "address": "SHOPPING JK IGUATEMI",
-      "city": "Av. Presidente Juscelino Kubitschek, 2041",
-      "zip": "São Paulo",
-      "available": false
-    },
-    {
-      "id": "24120-fs-sp-av-jose-maria-whitaker-418-",
-      "name": "24120",
-      "address": "FS SP - AV JOSE MARIA WHITAKER, 418",
-      "city": "Av Jose Maria Whitaker, 418",
-      "zip": "São Paulo",
-      "available": false
-    },
-    {
-      "id": "18368-shopping-mooca-plaza-",
-      "name": "18368",
-      "address": "SHOPPING MOOCA PLAZA",
-      "city": "R. Capitão Pacheco E Chaves, 313",
-      "zip": "São Paulo",
-      "available": false
-    },
-    {
-      "id": "21411-paroue-shopping-maia-",
-      "name": "21411",
-      "address": "PARǪUE SHOPPING MAIA",
-      "city": "Av. Bartholomeu De Carlos, 230",
-      "zip": "Guarulhos",
-      "available": false
-    },
-    {
-      "id": "24130-ilr-sp-r-augusta-2611-",
-      "name": "24130",
-      "address": "ILR SP - R. AUGUSTA, 2611",
-      "city": "Rua Augusta, 2611",
-      "zip": "São Paulo",
-      "available": false
-    },
-    {
-      "id": "32823-fz-fc-sao-paulo-paseo-alto-das-nacoes-",
-      "name": "32823",
-      "address": "FZ - FC SÃO PAULO PASEO ALTO DAS NAÇÕES",
-      "city": "Av das Nações Unidas, 15187",
-      "zip": "São Paulo",
-      "available": false
-    },
-    {
-      "id": "24106-ilr-sp-av-pedroso-de-morais-1556-",
-      "name": "24106",
-      "address": "ILR SP - AV. PEDROSO DE MORAIS, 1556",
-      "city": "Av. Pedroso de Morais, 1556",
-      "zip": "São Paulo",
-      "available": false
-    },
-    {
-      "id": "24125-ilr-sp-r-cerro-cora-1556-",
-      "name": "24125",
-      "address": "ILR SP - R. CERRO CORÁ, 1556",
-      "city": "Rua Cerro Corá, 1556",
-      "zip": "São Paulo",
-      "available": false
-    },
-    {
-      "id": "19023-caxias-shop-",
-      "name": "19023",
-      "address": "CAXIAS SHOP",
-      "city": "Rod. Washington Luiz, 2895",
-      "zip": "Duque de Caxias",
-      "available": false
-    },
-    {
-      "id": "24743-fs-duoue-de-caxias-brig-lima-e-silva-",
-      "name": "24743",
-      "address": "FS DUǪUE DE CAXIAS - BRIG LIMA E SILVA",
-      "city": "Av. Brigadeiro Lima e Silva, 711",
-      "zip": "Duque de Caxias",
-      "available": false
-    },
-    {
-      "id": "22581-ilr-rj-r-senador-dantas-177-",
-      "name": "22581",
-      "address": "ILR RJ - R SENADOR DANTAS 177",
-      "city": "R. Senador Dantas, 177",
-      "zip": "Rio de Janeiro",
-      "available": false
-    },
-    {
-      "id": "18069-ils-via-brasil-shop-rj-",
-      "name": "18069",
-      "address": "ILS VIA BRASIL SHOP RJ",
-      "city": "R. Itapera, 500",
-      "zip": "Rio de Janeiro",
-      "available": false
-    },
-    {
-      "id": "23181-shop-grande-rio-ii-",
-      "name": "23181",
-      "address": "SHOP GRANDE RIO II",
-      "city": "R. Maria Soares Sendas, 111",
-      "zip": "São João de Meriti",
-      "available": false
-    },
-    {
-      "id": "16618-shop-independencia-",
-      "name": "16618",
-      "address": "SHOP INDEPENDENCIA",
-      "city": "Av. Presidente Itamar Franco, 3600",
-      "zip": "Juiz de Fora",
-      "available": false
-    },
-    {
-      "id": "21897-fs-jf-rio-branco-3234-",
-      "name": "21897",
-      "address": "FS JF - RIO BRANCO 3234",
-      "city": "Av. Barão Do Rio Branco, 3234",
-      "zip": "Juiz de Fora",
-      "available": false
-    },
-    {
-      "id": "23727-shop-park-sul-",
-      "name": "23727",
-      "address": "SHOP PARK SUL",
-      "city": "Rod. Dos Metalúrgicos, 1189",
-      "zip": "Volta Redonda",
-      "available": false
-    },
-    {
-      "id": "19531-shop-park-lagos-cabo-frio-",
-      "name": "19531",
-      "address": "SHOP PARK LAGOS CABO FRIO",
-      "city": "R. Henrique Terra, 1700",
-      "zip": "Cabo Frio",
-      "available": false
-    },
-    {
-      "id": "26824-fs-rj-best-center-macae-",
-      "name": "26824",
-      "address": "FS RJ - BEST CENTER MACAE",
-      "city": "Rua Maria Francisca Borges Rego Reid",
-      "zip": "Macaé",
-      "available": false
-    },
-    {
-      "id": "18829-plaza-shop-niteroi-",
-      "name": "18829",
-      "address": "PLAZA SHOP NITEROI",
-      "city": "R. Xv De Novembro, 8",
-      "zip": "Niterói",
-      "available": false
-    },
-    {
-      "id": "19293-ilr-niteroi-r-gaviao-peixoto-35-",
-      "name": "19293",
-      "address": "ILR NITEROI - R GAVIAO PEIXOTO 35",
-      "city": "R. Gavião Peixoto, 35",
-      "zip": "Niterói",
-      "available": false
-    },
-    {
-      "id": "25076-fs-rj-av-dom-helder-camara-5911-",
-      "name": "25076",
-      "address": "FS RJ - AV DOM HELDER CAMARA 5911",
-      "city": "Av. Dom Helder Câmara, 5911",
-      "zip": "Rio de Janeiro",
-      "available": false
-    },
-    {
-      "id": "22501-shop-nova-iguacu-",
-      "name": "22501",
-      "address": "SHOP NOVA IGUACU",
-      "city": "Av. Abílio Augusto Távora, 1061",
-      "zip": "Nova Iguaçu",
-      "available": false
-    },
-    {
-      "id": "25678-fs-nova-iguacu-rod-dutra-13006-",
-      "name": "25678",
-      "address": "FS NOVA IGUACU - ROD DUTRA 13006",
-      "city": "Rodovia Presidente Dutra, 13006",
-      "zip": "Nova Iguaçu",
-      "available": false
-    },
-    {
-      "id": "29952-fs-nova-iguacu-rodovia-presidente-dutra-14651-",
-      "name": "29952",
-      "address": "FS NOVA IGUACU - RODOVIA PRESIDENTE DUTRA 14651",
-      "city": "Rodovia Presidente Dutra, 14251",
-      "zip": "Nova Iguaçu",
-      "available": false
-    },
-    {
-      "id": "16688-barra-shop-rj-",
-      "name": "16688",
-      "address": "BARRA SHOP RJ",
-      "city": "Av Das Américas, 4666",
-      "zip": "Rio de Janeiro",
-      "available": false
-    },
-    {
-      "id": "27457-fs-rj-av-das-americas-recreio-ii-",
-      "name": "27457",
-      "address": "FS RJ - AV DAS AMERICAS RECREIO II",
-      "city": "Av. das Américas, 17431",
-      "zip": "Rio de Janeiro",
-      "available": false
-    },
-    {
-      "id": "28344-fs-rj-estrada-dos-bandeirantes-3300-",
-      "name": "28344",
-      "address": "FS RJ  ESTRADA DOS BANDEIRANTES 3300",
-      "city": "Estrada dos Bandeirantes, 330",
-      "zip": "Rio de Janeiro",
-      "available": false
-    },
-    {
-      "id": "30774-fc-shop-taouara-plaza-",
-      "name": "30774",
-      "address": "FC- SHOP TAǪUARA PLAZA",
-      "city": "ETR Rodrigues Caldas, 127 Suc 4007 Piso L4",
-      "zip": "Rio de Janeiro",
-      "available": false
-    },
-    {
-      "id": "17969-shop-bangu-",
-      "name": "17969",
-      "address": "SHOP BANGU",
-      "city": "R. Fonseca, 240",
-      "zip": "Rio de Janeiro",
-      "available": false
-    },
-    {
-      "id": "18416-west-shop-",
-      "name": "18416",
-      "address": "WEST SHOP",
-      "city": "Estr. Do Mendanha, 555",
-      "zip": "Rio de Janeiro",
-      "available": false
-    },
-    {
-      "id": "18847-park-shop-campo-grande-",
-      "name": "18847",
-      "address": "PARK SHOP CAMPO GRANDE",
-      "city": "Estr. Do Monteiro, 1200",
-      "zip": "Rio de Janeiro",
-      "available": false
-    },
-    {
-      "id": "26812-fs-rj-r-francisco-real-924-",
-      "name": "26812",
-      "address": "FS RJ - R FRANCISCO REAL 924",
-      "city": "Rua Francisco Real, 924",
-      "zip": "Rio de Janeiro",
-      "available": false
-    },
-    {
-      "id": "31066-",
-      "name": "31066",
+      "id": "lojas-participantes-bobbie-goods-",
+      "name": "LOJAS PARTICIPANTES BOBBIE GOODS",
       "address": "",
-      "city": "Estrada da Cachamorra, 200",
-      "zip": "Rio de Janeiro",
+      "city": "",
+      "zip": "",
       "available": false
     },
     {
-      "id": "17401-shop-sao-goncalo-",
-      "name": "17401",
-      "address": "SHOP SAO GONCALO",
-      "city": "Av. São Gonçalo, 100",
-      "zip": "São Gonçalo",
+      "id": "restaurante-endereco-",
+      "name": "RESTAURANTE",
+      "address": "ENDEREÇO",
+      "city": "CIDADE",
+      "zip": "CEP",
       "available": false
     },
     {
-      "id": "17631-shop-boulevard-rio-",
-      "name": "17631",
-      "address": "SHOP BOULEVARD RIO",
-      "city": "R. Barão De São Francisco, 236",
-      "zip": "Rio de Janeiro",
+      "id": "fs-atibaia-al-prof-lucas-nogueira-garcez-3586-12942020",
+      "name": "FS ATIBAIA",
+      "address": "Al. Prof. Lucas Nogueira Garcez, 3586",
+      "city": "Atibaia",
+      "zip": "12942-020",
       "available": false
     },
     {
-      "id": "22711-ilr-rj-r-general-roca-675-",
-      "name": "22711",
-      "address": "ILR RJ - R GENERAL ROCA 675",
-      "city": "R. General Roca, 675",
-      "zip": "Rio de Janeiro",
-      "available": false
+      "id": "ilr-sp-av-angelica-1076-01228100",
+      "name": "ILR SP",
+      "address": "Av. Angélica, 1076",
+      "city": "São Paulo",
+      "zip": "01228-100",
+      "available": true
     },
     {
-      "id": "23735-fs-sp-av-anhaia-mello-1242-",
-      "name": "23735",
-      "address": "FS SP - AV ANHAIA MELLO 1242",
-      "city": "Av. Anhaia Mello, 1242",
-      "zip": "São Paulo",
+      "id": "shopping-jk-iguatemi-av-presidente-juscelino-kubitschek-2041-04543011",
+      "name": "SHOPPING JK IGUATEMI",
+      "address": "Av. Presidente Juscelino Kubitschek, 2041",
+      "city": "São Paulo",
+      "zip": "04543-011",
       "available": false
     },
     {
-      "id": "23742-fs-sp-av-dummont-villares-1159-",
-      "name": "23742",
-      "address": "FS SP - AV DUMMONT VILLARES 1159",
-      "city": "Av. Dumont Villares, 1159",
-      "zip": "São Paulo",
+      "id": "fs-sp-av-jose-maria-whitaker-418-04026002",
+      "name": "FS SP",
+      "address": "Av Jose Maria Whitaker, 418",
+      "city": "São Paulo",
+      "zip": "04026-002",
       "available": false
     },
     {
-      "id": "18334-fs-sp-radial-leste-1884-",
-      "name": "18334",
-      "address": "FS SP - RADIAL LESTE 1884",
-      "city": "Av. Alcântara Machado, 1884",
-      "zip": "São Paulo",
+      "id": "shopping-mooca-plaza-r-capitao-pacheco-e-chaves-313-03126000",
+      "name": "SHOPPING MOOCA PLAZA",
+      "address": "R. Capitão Pacheco E Chaves, 313",
+      "city": "São Paulo",
+      "zip": "03126-000",
       "available": false
     },
     {
-      "id": "23741-ilr-sp-av-paulista-633-",
-      "name": "23741",
-      "address": "ILR SP - AV PAULISTA 633",
-      "city": "Av. Paulista, 633",
-      "zip": "São Paulo",
+      "id": "paroue-shopping-maia-av-bartholomeu-de-carlos-230-07097420",
+      "name": "PARǪUE SHOPPING MAIA",
+      "address": "Av. Bartholomeu De Carlos, 230",
+      "city": "Guarulhos",
+      "zip": "07097-420",
       "available": false
     },
     {
-      "id": "17780-shop-metro-boulevard-tatuape-",
-      "name": "17780",
-      "address": "SHOP METRO BOULEVARD TATUAPE",
-      "city": "R. Gonçalves Crespo, 78",
-      "zip": "São Paulo",
-      "available": false
+      "id": "ilr-sp-rua-augusta-2611-01413100",
+      "name": "ILR SP",
+      "address": "Rua Augusta, 2611",
+      "city": "São Paulo",
+      "zip": "01413-100",
+      "available": true
     },
     {
-      "id": "16353-santana-park-shop-",
-      "name": "16353",
-      "address": "SANTANA PARK SHOP",
-      "city": "Av. Conselheiro Moreira De Barros, 2780",
-      "zip": "São Paulo",
+      "id": "fz-av-das-nacoes-unidas-15187-04794000",
+      "name": "FZ",
+      "address": "Av das Nações Unidas, 15187",
+      "city": "São Paulo",
+      "zip": "04794-000",
       "available": false
     },
     {
-      "id": "16553-bourbon-shop-sp-",
-      "name": "16553",
-      "address": "BOURBON SHOP SP",
-      "city": "R. Turiassu, 2100",
-      "zip": "São Paulo",
-      "available": false
+      "id": "ilr-sp-av-pedroso-de-morais-1556-05420002",
+      "name": "ILR SP",
+      "address": "Av. Pedroso de Morais, 1556",
+      "city": "São Paulo",
+      "zip": "05420-002",
+      "available": true
     },
     {
-      "id": "19272-shop-d-",
-      "name": "19272",
-      "address": "SHOP D",
-      "city": "Av. Cruzeiro Do Sul, 1100",
-      "zip": "São Paulo",
+      "id": "ilr-sp-rua-cerro-cora-1556-05061300",
+      "name": "ILR SP",
+      "address": "Rua Cerro Corá, 1556",
+      "city": "São Paulo",
+      "zip": "05061-300",
       "available": false
     },
     {
-      "id": "15174-shop-metro-tatuape-",
-      "name": "15174",
-      "address": "SHOP METRO TATUAPE",
-      "city": "R. Doutor Mello Freire S/N",
-      "zip": "São Paulo",
+      "id": "caxias-shop-rod-washington-luiz-2895-25085008",
+      "name": "CAXIAS SHOP",
+      "address": "Rod. Washington Luiz, 2895",
+      "city": "Duque de Caxias",
+      "zip": "25085-008",
       "available": false
     },
     {
-      "id": "19173-fs-rio-claro-jardim-claret-",
-      "name": "19173",
-      "address": "FS RIO CLARO - JARDIM CLARET",
-      "city": "R. 14, 909",
-      "zip": "Rio Claro",
+      "id": "fs-duoue-de-caxias-av-brigadeiro-lima-e-silva-711-25085131",
+      "name": "FS DUǪUE DE CAXIAS",
+      "address": "Av. Brigadeiro Lima e Silva, 711",
+      "city": "Duque de Caxias",
+      "zip": "25085-131",
       "available": false
     },
     {
-      "id": "21699-fs-sao-carlos-passeio-sao-carlos-",
-      "name": "21699",
-      "address": "FS SAO CARLOS - PASSEIO SAO CARLOS",
-      "city": "Av. Francisco Pereira Lopes, 1701",
-      "zip": "São Carlos",
+      "id": "ilr-rj-r-senador-dantas-177-26440100",
+      "name": "ILR RJ",
+      "address": "R. Senador Dantas, 177",
+      "city": "Rio de Janeiro",
+      "zip": "26440-100",
       "available": false
     },
     {
-      "id": "24366-fs-araras-av-dona-renata-2858-",
-      "name": "24366",
-      "address": "FS ARARAS - AV DONA RENATA 2858",
-      "city": "Av. Dona Renata, 2858",
-      "zip": "Araras",
+      "id": "ils-via-brasil-shop-rj-r-itapera-500-21230500",
+      "name": "ILS VIA BRASIL SHOP RJ",
+      "address": "R. Itapera, 500",
+      "city": "Rio de Janeiro",
+      "zip": "21230-500",
       "available": false
     },
     {
-      "id": "28205-fs-leme-av-joaouim-lopes-aguila-",
-      "name": "28205",
-      "address": "FS LEME - AV JOAǪUIM LOPES AGUILA",
-      "city": "Av. Joaquim Lopes Aguila, 125",
-      "zip": "Leme",
-      "available": false
+      "id": "shop-grande-rio-ii-r-maria-soares-sendas-111-25575825",
+      "name": "SHOP GRANDE RIO II",
+      "address": "R. Maria Soares Sendas, 111",
+      "city": "São João de Meriti",
+      "zip": "25575-825",
+      "available": true
     },
     {
-      "id": "25036-shop-iguatemi-campinas-ii-",
-      "name": "25036",
-      "address": "SHOP IGUATEMI CAMPINAS II",
-      "city": "Av. Iguatemi, 777",
-      "zip": "Campinas",
-      "available": false
+      "id": "shop-independencia-av-presidente-itamar-franco-3600-36025290",
+      "name": "SHOP INDEPENDENCIA",
+      "address": "Av. Presidente Itamar Franco, 3600",
+      "city": "Juiz de Fora",
+      "zip": "36025-290",
+      "available": true
     },
     {
-      "id": "21533-fs-araraouara-av-francisco-salles-470-",
-      "name": "21533",
-      "address": "FS ARARAǪUARA - AV FRANCISCO SALLES 470",
-      "city": "Av. Padre Francisco Sales Colturato, 470",
-      "zip": "Araraquara",
-      "available": false
+      "id": "fs-jf-av-barao-do-rio-branco-3234-36021630",
+      "name": "FS JF",
+      "address": "Av. Barão Do Rio Branco, 3234",
+      "city": "Juiz de Fora",
+      "zip": "36021-630",
+      "available": true
     },
     {
-      "id": "18546-ils-franca-shop-",
-      "name": "18546",
-      "address": "ILS FRANCA SHOP",
-      "city": "Av. Rio Negro, 1100",
-      "zip": "Franca",
-      "available": false
+      "id": "shop-park-sul-rod-dos-metalurgicos-1189-27253005",
+      "name": "SHOP PARK SUL",
+      "address": "Rod. Dos Metalúrgicos, 1189",
+      "city": "Volta Redonda",
+      "zip": "27253-005",
+      "available": true
     },
     {
-      "id": "18643-garden-shop-catanduva-",
-      "name": "18643",
-      "address": "GARDEN SHOP CATANDUVA",
-      "city": "Av. José Nélson Machado, 280",
-      "zip": "Catanduva",
-      "available": false
+      "id": "shop-park-lagos-cabo-frio-r-henrique-terra-1700-28911320",
+      "name": "SHOP PARK LAGOS CABO FRIO",
+      "address": "R. Henrique Terra, 1700",
+      "city": "Cabo Frio",
+      "zip": "28911-320",
+      "available": true
     },
     {
-      "id": "25857-fs-sertaozinho-av-antonio-paschoal-1447-",
-      "name": "25857",
-      "address": "FS SERTAOZINHO - AV ANTONIO PASCHOAL 1447",
-      "city": "Avenida Antônio Paschoal, 1447",
-      "zip": "Sertãozinho",
+      "id": "fs-rj-rua-maria-francisca-borges-rego-reid-27933260",
+      "name": "FS RJ",
+      "address": "Rua Maria Francisca Borges Rego Reid",
+      "city": "Macaé",
+      "zip": "27933-260",
       "available": false
     },
     {
-      "id": "19617-fs-americana-r-julio-prestes-",
-      "name": "19617",
-      "address": "FS AMERICANA - R JULIO PRESTES",
-      "city": "R. Júlio Prestes, S/N",
-      "zip": "Americana",
+      "id": "plaza-shop-niteroi-r-xv-de-novembro-8-24025970",
+      "name": "PLAZA SHOP NITEROI",
+      "address": "R. Xv De Novembro, 8",
+      "city": "Niterói",
+      "zip": "24025-970",
       "available": false
     },
     {
-      "id": "17498-fs-campinas-av-brasil-761-",
-      "name": "17498",
-      "address": "FS CAMPINAS - AV BRASIL 761",
-      "city": "Av. Brasil, 761",
-      "zip": "Campinas",
+      "id": "ilr-niteroi-r-gaviao-peixoto-35-24230090",
+      "name": "ILR NITEROI",
+      "address": "R. Gavião Peixoto, 35",
+      "city": "Niterói",
+      "zip": "24230-090",
       "available": false
     },
     {
-      "id": "18452-shop-santa-ursula-",
-      "name": "18452",
-      "address": "SHOP SANTA URSULA",
-      "city": "R. São José, 993",
-      "zip": "Ribeirão Preto",
-      "available": false
+      "id": "fs-rj-av-dom-helder-camara-5911-20771035",
+      "name": "FS RJ",
+      "address": "Av. Dom Helder Câmara, 5911",
+      "city": "Rio de Janeiro",
+      "zip": "20771-035",
+      "available": true
     },
     {
-      "id": "17770-centervale-shop-",
-      "name": "17770",
-      "address": "CENTERVALE SHOP",
-      "city": "Av. Dep. Benedito Matarazzo, 9403",
-      "zip": "São José dos Campos",
+      "id": "shop-nova-iguacu-av-abilio-augusto-tavora-1061-26262020",
+      "name": "SHOP NOVA IGUACU",
+      "address": "Av. Abílio Augusto Távora, 1061",
+      "city": "Nova Iguaçu",
+      "zip": "26262-020",
       "available": false
     },
     {
-      "id": "30074-fs-ribeirao-preto-av-capitao-salomao-2360-",
-      "name": "30074",
-      "address": "FS RIBEIRAO PRETO AV CAPITAO SALOMAO 2360",
-      "city": "Av Capitão Salomão, 2360",
-      "zip": "Ribeirão Preto",
+      "id": "fs-nova-iguacu-rodovia-presidente-dutra-13006-26221190",
+      "name": "FS NOVA IGUACU",
+      "address": "Rodovia Presidente Dutra, 13006",
+      "city": "Nova Iguaçu",
+      "zip": "26221-190",
       "available": false
     },
     {
-      "id": "19028-shop-paroue-das-bandeiras-",
-      "name": "19028",
-      "address": "SHOP PARǪUE DAS BANDEIRAS",
-      "city": "Av. John Boyd Dunlop, 3900",
-      "zip": "Campinas",
+      "id": "fs-nova-iguacu-rodovia-presidente-dutra-14251-26221190",
+      "name": "FS NOVA IGUACU",
+      "address": "Rodovia Presidente Dutra, 14251",
+      "city": "Nova Iguaçu",
+      "zip": "26221-190",
       "available": false
     },
     {
-      "id": "22912-fs-itatiba-av-castelo-branco-687-",
-      "name": "22912",
-      "address": "FS ITATIBA - AV CASTELO BRANCO 687",
-      "city": "Av. Marechal Castelo Branco, 687",
-      "zip": "Itatiba",
+      "id": "barra-shop-rj-av-das-americas-4666-22640102",
+      "name": "BARRA SHOP RJ",
+      "address": "Av Das Américas, 4666",
+      "city": "Rio de Janeiro",
+      "zip": "22640-102",
       "available": false
     },
     {
-      "id": "24361-fs-campinas-norte-sul-1387-",
-      "name": "24361",
-      "address": "FS CAMPINAS - NORTE SUL 1387",
-      "city": "Av. José de Souza Campos, 1387",
-      "zip": "Campinas",
-      "available": false
+      "id": "fs-rj-av-das-americas-17431-22790703",
+      "name": "FS RJ",
+      "address": "Av. das Américas, 17431",
+      "city": "Rio de Janeiro",
+      "zip": "22790-703",
+      "available": true
     },
     {
-      "id": "24594-ilr-campinas-rua-13-de-maio-",
-      "name": "24594",
-      "address": "ILR CAMPINAS - RUA 13 DE MAIO",
-      "city": "Rua Treze de Maio, 734",
-      "zip": "Campinas",
+      "id": "fs-rj-estrada-dos-bandeirantes-3300-estrada-dos-bandeirantes-330-22775110",
+      "name": "FS RJ  ESTRADA DOS BANDEIRANTES 3300",
+      "address": "Estrada dos Bandeirantes, 330",
+      "city": "Rio de Janeiro",
+      "zip": "22775-110",
       "available": false
     },
     {
-      "id": "19102-fs-piracicaba-av-independencia-2677-",
-      "name": "19102",
-      "address": "FS PIRACICABA - AV INDEPENDENCIA 2677",
-      "city": "Av. Independência, 2677",
-      "zip": "Piracicaba",
+      "id": "fc-etr-rodrigues-caldas-127-suc-4007-piso-l4-22730250",
+      "name": "FC",
+      "address": "ETR Rodrigues Caldas, 127 Suc 4007 Piso L4",
+      "city": "Rio de Janeiro",
+      "zip": "22730-250",
       "available": false
     },
     {
-      "id": "18815-ribeirao-shop-",
-      "name": "18815",
-      "address": "RIBEIRAO SHOP",
-      "city": "Av. Coronel Fernando Ferreira Leite, 1540",
-      "zip": "Ribeirão Preto",
-      "available": false
+      "id": "shop-bangu-r-fonseca-240-21820005",
+      "name": "SHOP BANGU",
+      "address": "R. Fonseca, 240",
+      "city": "Rio de Janeiro",
+      "zip": "21820-005",
+      "available": true
     },
     {
-      "id": "22518-fs-sjc-rua-euclides-miragaia-445-",
-      "name": "22518",
-      "address": "FS SJC - RUA EUCLIDES MIRAGAIA 445",
-      "city": "Rua Euclides Miragaia, 445",
-      "zip": "São José dos Campos",
+      "id": "west-shop-estr-do-mendanha-555-23087283",
+      "name": "WEST SHOP",
+      "address": "Estr. Do Mendanha, 555",
+      "city": "Rio de Janeiro",
+      "zip": "23087-283",
       "available": false
     },
     {
-      "id": "15905-paroue-dom-pedro-shop-",
-      "name": "15905",
-      "address": "PARǪUE DOM PEDRO SHOP",
-      "city": "Av. Guilherme Campos, 500",
-      "zip": "Campinas",
-      "available": false
+      "id": "park-shop-campo-grande-estr-do-monteiro-1200-23036340",
+      "name": "PARK SHOP CAMPO GRANDE",
+      "address": "Estr. Do Monteiro, 1200",
+      "city": "Rio de Janeiro",
+      "zip": "23036-340",
+      "available": true
     },
     {
-      "id": "17974-campinas-shop-",
-      "name": "17974",
-      "address": "CAMPINAS SHOP",
-      "city": "R. Jacy Texeira Camargo, 940",
-      "zip": "Campinas",
+      "id": "fs-rj-rua-francisco-real-924-21810042",
+      "name": "FS RJ",
+      "address": "Rua Francisco Real, 924",
+      "city": "Rio de Janeiro",
+      "zip": "21810-042",
       "available": false
     },
     {
-      "id": "18423-shop-piracicaba-",
-      "name": "18423",
-      "address": "SHOP PIRACICABA",
-      "city": "Av. Limeira, 722",
-      "zip": "Piracicaba",
+      "id": "shop-sao-goncalo-av-sao-goncalo-100-24445010",
+      "name": "SHOP SAO GONCALO",
+      "address": "Av. São Gonçalo, 100",
+      "city": "São Gonçalo",
+      "zip": "24445-010",
       "available": false
     },
     {
-      "id": "17261-shop-vale-sul-",
-      "name": "17261",
-      "address": "SHOP VALE SUL",
-      "city": "Av. Andrômeda, 227",
-      "zip": "São José dos Campos",
+      "id": "shop-boulevard-rio-r-barao-de-sao-francisco-236-20560030",
+      "name": "SHOP BOULEVARD RIO",
+      "address": "R. Barão De São Francisco, 236",
+      "city": "Rio de Janeiro",
+      "zip": "20560-030",
       "available": false
     },
     {
-      "id": "18383-shop-serramar-",
-      "name": "18383",
-      "address": "SHOP SERRAMAR",
-      "city": "Av. José Herculano, 1086",
-      "zip": "Caraguatatuba",
+      "id": "ilr-rj-r-general-roca-675-20521070",
+      "name": "ILR RJ",
+      "address": "R. General Roca, 675",
+      "city": "Rio de Janeiro",
+      "zip": "20521-070",
       "available": false
     },
     {
-      "id": "16667-fs-sorocaba-av-comitre-",
-      "name": "16667",
-      "address": "FS SOROCABA - AV COMITRE",
-      "city": "Av. Antônio Carlos Comitre, S/N",
-      "zip": "Sorocaba",
-      "available": false
+      "id": "fs-sp-av-anhaia-mello-1242-03154000",
+      "name": "FS SP",
+      "address": "Av. Anhaia Mello, 1242",
+      "city": "São Paulo",
+      "zip": "03154-000",
+      "available": true
     },
     {
-      "id": "19652-fs-aracatuba-av-brasilia-761-",
-      "name": "19652",
-      "address": "FS ARACATUBA - AV BRASILIA 761",
-      "city": "Av. Brasília, 761",
-      "zip": "Araçatuba",
-      "available": false
+      "id": "fs-sp-av-dumont-villares-1159-05640001",
+      "name": "FS SP",
+      "address": "Av. Dumont Villares, 1159",
+      "city": "São Paulo",
+      "zip": "05640-001",
+      "available": true
     },
     {
-      "id": "19616-fs-pres-prudente-washington-luiz-875-",
-      "name": "19616",
-      "address": "FS PRES PRUDENTE - WASHINGTON LUIZ 875",
-      "city": "Av. Washington Luiz, 875",
-      "zip": "Presidente Prudente",
+      "id": "fs-sp-av-alcantara-machado-1884-03102004",
+      "name": "FS SP",
+      "address": "Av. Alcântara Machado, 1884",
+      "city": "São Paulo",
+      "zip": "03102-004",
       "available": false
     },
     {
-      "id": "19784-fs-jau-av-zien-nassif-",
-      "name": "19784",
-      "address": "FS JAU - AV ZIEN NASSIF",
-      "city": "Av. Deputado Zien Nassif, S/N",
-      "zip": "Jaú",
-      "available": false
+      "id": "ilr-sp-av-paulista-633-01311100",
+      "name": "ILR SP",
+      "address": "Av. Paulista, 633",
+      "city": "São Paulo",
+      "zip": "01311-100",
+      "available": true
     },
     {
-      "id": "28363-fs-bauru-av-castelo-branco-194-",
-      "name": "28363",
-      "address": "FS BAURU  AV CASTELO BRANCO 194",
-      "city": "Av Castelo Branco, 1-106",
-      "zip": "Bauru",
-      "available": false
+      "id": "shop-metro-boulevard-tatuape-r-goncalves-crespo-78-03066030",
+      "name": "SHOP METRO BOULEVARD TATUAPE",
+      "address": "R. Gonçalves Crespo, 78",
+      "city": "São Paulo",
+      "zip": "03066-030",
+      "available": true
     },
     {
-      "id": "30202-fs-jundiai-av-p-luiz-latorre-4600-",
-      "name": "30202",
-      "address": "FS JUNDIAI - AV P LUIZ LATORRE 4600",
-      "city": "Av. Pref. Luiz Latorre, S/N",
-      "zip": "Jundiaí",
+      "id": "santana-park-shop-av-conselheiro-moreira-de-barros-2780-02430001",
+      "name": "SANTANA PARK SHOP",
+      "address": "Av. Conselheiro Moreira De Barros, 2780",
+      "city": "São Paulo",
+      "zip": "02430-001",
       "available": false
     },
     {
-      "id": "21822-fs-marilia-av-tiradentes-1008-",
-      "name": "21822",
-      "address": "FS MARILIA - AV TIRADENTES 1008",
-      "city": "Av. Tiradentes, 1008",
-      "zip": "Marília",
-      "available": false
+      "id": "bourbon-shop-sp-r-turiassu-2100-05005900",
+      "name": "BOURBON SHOP SP",
+      "address": "R. Turiassu, 2100",
+      "city": "São Paulo",
+      "zip": "05005-900",
+      "available": true
     },
     {
-      "id": "26162-fs-avare-av-pref-paulo-novaes-65-",
-      "name": "26162",
-      "address": "FS AVARE - AV PREF PAULO NOVAES 65",
-      "city": "Avenida Prefeito Paulo de Araújo Novaes, 61",
-      "zip": "Avaré",
-      "available": false
+      "id": "shop-d-av-cruzeiro-do-sul-1100-03033020",
+      "name": "SHOP D",
+      "address": "Av. Cruzeiro Do Sul, 1100",
+      "city": "São Paulo",
+      "zip": "03033-020",
+      "available": true
     },
     {
-      "id": "20210-fs-sjrp-av-bady-bassitt-",
-      "name": "20210",
-      "address": "FS SJRP - AV BADY BASSITT",
-      "city": "R. Professor Jamil Kauan, S/N",
-      "zip": "São José do Rio Preto",
-      "available": false
+      "id": "shop-metro-tatuape-r-doutor-mello-freire-s-n-03314030",
+      "name": "SHOP METRO TATUAPE",
+      "address": "R. Doutor Mello Freire S/N",
+      "city": "São Paulo",
+      "zip": "03314-030",
+      "available": true
     },
     {
-      "id": "24359-fs-boituva-av-ari-vercellino-1400-",
-      "name": "24359",
-      "address": "FS BOITUVA - AV ARI VERCELLINO 1400",
-      "city": "Av. Ari Vercelino, 1400",
-      "zip": "Boituva",
+      "id": "fs-rio-claro-r-14-909-13504164",
+      "name": "FS RIO CLARO",
+      "address": "R. 14, 909",
+      "city": "Rio Claro",
+      "zip": "13504-164",
       "available": false
     },
     {
-      "id": "30085-fs-indaiatuba-av-eng-fabio-roberto-barnabe-",
-      "name": "30085",
-      "address": "FS INDAIATUBA - AV ENG FABIO ROBERTO BARNABE",
-      "city": "Av. Engenheiro Fábio Roberto Barnabe, 1517",
-      "zip": "Indaiatuba",
-      "available": false
+      "id": "fs-sao-carlos-av-francisco-pereira-lopes-1701-13561250",
+      "name": "FS SAO CARLOS",
+      "address": "Av. Francisco Pereira Lopes, 1701",
+      "city": "São Carlos",
+      "zip": "13561-250",
+      "available": true
     },
     {
-      "id": "25037-shop-iguatemi-esplanada-ii-",
-      "name": "25037",
-      "address": "SHOP IGUATEMI ESPLANADA II",
-      "city": "Av Professora Izoraida Marques Peres, 401",
-      "zip": "Votorantim",
-      "available": false
+      "id": "fs-araras-av-dona-renata-2858-13603134",
+      "name": "FS ARARAS",
+      "address": "Av. Dona Renata, 2858",
+      "city": "Araras",
+      "zip": "13603-134",
+      "available": true
     },
     {
-      "id": "17782-shop-bauru-",
-      "name": "17782",
-      "address": "SHOP BAURU",
-      "city": "R. Henrique Savi, 15 55",
-      "zip": "Bauru",
-      "available": false
+      "id": "fs-leme-av-joaquim-lopes-aguila-125-13614032",
+      "name": "FS LEME",
+      "address": "Av. Joaquim Lopes Aguila, 125",
+      "city": "Leme",
+      "zip": "13614-032",
+      "available": true
     },
     {
-      "id": "17975-maxi-shop-jundiai-",
-      "name": "17975",
-      "address": "MAXI SHOP JUNDIAI",
-      "city": "Av. Antônio Frederico Ozanan, 6000",
-      "zip": "Jundiaí",
+      "id": "shop-iguatemi-campinas-ii-av-iguatemi-777-13092902",
+      "name": "SHOP IGUATEMI CAMPINAS II",
+      "address": "Av. Iguatemi, 777",
+      "city": "Campinas",
+      "zip": "13092-902",
       "available": false
     },
     {
-      "id": "16659-marilia-shop-",
-      "name": "16659",
-      "address": "MARILIA SHOP",
-      "city": "R. Tucunarés, 500",
-      "zip": "Marília",
-      "available": false
+      "id": "fs-araraouara-av-padre-francisco-sales-colturato-470-14801250",
+      "name": "FS ARARAǪUARA",
+      "address": "Av. Padre Francisco Sales Colturato, 470",
+      "city": "Araraquara",
+      "zip": "14801-250",
+      "available": true
     },
     {
-      "id": "16431-shop-la-plage-",
-      "name": "16431",
-      "address": "SHOP LA PLAGE",
-      "city": "Av. Mal. Deodoro Da Fonseca, 885",
-      "zip": "Guarujá",
+      "id": "ils-franca-shop-av-rio-negro-1100-14406005",
+      "name": "ILS FRANCA SHOP",
+      "address": "Av. Rio Negro, 1100",
+      "city": "Franca",
+      "zip": "14406-005",
       "available": false
     },
     {
-      "id": "17973-fs-sbc-av-prestes-maia-1001-",
-      "name": "17973",
-      "address": "FS SBC - AV PRESTES MAIA 1001",
-      "city": "Av. Francisco Prestes Maia, 1001",
-      "zip": "São Bernardo do Campo",
-      "available": false
+      "id": "garden-shop-catanduva-av-jose-nelson-machado-280-15800200",
+      "name": "GARDEN SHOP CATANDUVA",
+      "address": "Av. José Nélson Machado, 280",
+      "city": "Catanduva",
+      "zip": "15800-200",
+      "available": true
     },
     {
-      "id": "18417-ils-shop-center-penha-sp-",
-      "name": "18417",
-      "address": "ILS SHOP CENTER PENHA SP",
-      "city": "R. Dr. João Ribeiro, 304",
-      "zip": "São Paulo",
-      "available": false
+      "id": "fs-sertaozinho-avenida-antonio-paschoal-1447-14160500",
+      "name": "FS SERTAOZINHO",
+      "address": "Avenida Antônio Paschoal, 1447",
+      "city": "Sertãozinho",
+      "zip": "14160-500",
+      "available": true
     },
     {
-      "id": "19608-shop-aricanduva-leste-",
-      "name": "19608",
-      "address": "SHOP ARICANDUVA LESTE",
-      "city": "Av. Aricanduva, 5555",
-      "zip": "São Paulo",
-      "available": false
+      "id": "fs-americana-r-julio-prestes-s-n-13465620",
+      "name": "FS AMERICANA",
+      "address": "R. Júlio Prestes, S/N",
+      "city": "Americana",
+      "zip": "13465-620",
+      "available": true
     },
     {
-      "id": "26811-fs-sp-av-ragueb-chohfi-2022-",
-      "name": "26811",
-      "address": "FS SP - AV RAGUEB CHOHFI 2022",
-      "city": "Av. Ragueb Chohfi, 2142",
-      "zip": "São Paulo",
+      "id": "fs-campinas-av-brasil-761-13073012",
+      "name": "FS CAMPINAS",
+      "address": "Av. Brasil, 761",
+      "city": "Campinas",
+      "zip": "13073-012",
       "available": false
     },
     {
-      "id": "15859-shop-central-plaza-",
-      "name": "15859",
-      "address": "SHOP CENTRAL PLAZA",
-      "city": "Av. Dr. Francisco Mesquita, 1000",
-      "zip": "São Paulo",
-      "available": false
+      "id": "shop-santa-ursula-r-sao-jose-993-14010160",
+      "name": "SHOP SANTA URSULA",
+      "address": "R. São José, 993",
+      "city": "Ribeirão Preto",
+      "zip": "14010-160",
+      "available": true
     },
     {
-      "id": "16261-shop-plaza-sul-",
-      "name": "16261",
-      "address": "SHOP PLAZA SUL",
-      "city": "Avenida Professor Abraao de Morais, 100",
-      "zip": "São Paulo",
-      "available": false
+      "id": "centervale-shop-av-dep-benedito-matarazzo-9403-12215900",
+      "name": "CENTERVALE SHOP",
+      "address": "Av. Dep. Benedito Matarazzo, 9403",
+      "city": "São José dos Campos",
+      "zip": "12215-900",
+      "available": true
     },
     {
-      "id": "15881-shop-aricanduva-",
-      "name": "15881",
-      "address": "SHOP ARICANDUVA",
-      "city": "Av. Aricanduva, 5555",
-      "zip": "São Paulo",
-      "available": false
+      "id": "fs-ribeirao-preto-av-capitao-salomao-2360-av-capitao-salomao-2360-14085440",
+      "name": "FS RIBEIRAO PRETO AV CAPITAO SALOMAO 2360",
+      "address": "Av Capitão Salomão, 2360",
+      "city": "Ribeirão Preto",
+      "zip": "14085-440",
+      "available": true
     },
     {
-      "id": "15791-praia-mar-shop-santos-",
-      "name": "15791",
-      "address": "PRAIA MAR SHOP SANTOS",
-      "city": "R. Alexandre Martins, 80",
-      "zip": "Santos",
+      "id": "shop-paroue-das-bandeiras-av-john-boyd-dunlop-3900-13059587",
+      "name": "SHOP PARǪUE DAS BANDEIRAS",
+      "address": "Av. John Boyd Dunlop, 3900",
+      "city": "Campinas",
+      "zip": "13059-587",
       "available": false
     },
     {
-      "id": "16086-shop-brisamar-sao-vicente-",
-      "name": "16086",
-      "address": "SHOP BRISAMAR SAO VICENTE",
-      "city": "R. Frei Gaspar, 365",
-      "zip": "São Vicente",
-      "available": false
+      "id": "fs-itatiba-av-marechal-castelo-branco-687-13255350",
+      "name": "FS ITATIBA",
+      "address": "Av. Marechal Castelo Branco, 687",
+      "city": "Itatiba",
+      "zip": "13255-350",
+      "available": true
     },
     {
-      "id": "16666-litoral-plaza-shop-",
-      "name": "16666",
-      "address": "LITORAL PLAZA SHOP",
-      "city": "Av. Ayrton Senna Da Silva, 1511",
-      "zip": "Praia Grande",
-      "available": false
+      "id": "fs-campinas-av-jose-de-souza-campos-1387-13025320",
+      "name": "FS CAMPINAS",
+      "address": "Av. José de Souza Campos, 1387",
+      "city": "Campinas",
+      "zip": "13025-320",
+      "available": true
     },
     {
-      "id": "15494-shop-grand-plaza-",
-      "name": "15494",
-      "address": "SHOP GRAND PLAZA",
-      "city": "Av. Industrial, 600",
-      "zip": "Santo André",
+      "id": "ilr-campinas-rua-treze-de-maio-734-13010071",
+      "name": "ILR CAMPINAS",
+      "address": "Rua Treze de Maio, 734",
+      "city": "Campinas",
+      "zip": "13010-071",
       "available": false
     },
     {
-      "id": "16987-shop-metropole-sbc-",
-      "name": "16987",
-      "address": "SHOP METROPOLE SBC",
-      "city": "Pça Samuel Sabatini, 200",
-      "zip": "São Bernardo do Campo",
-      "available": false
+      "id": "fs-piracicaba-av-independencia-2677-13416240",
+      "name": "FS PIRACICABA",
+      "address": "Av. Independência, 2677",
+      "city": "Piracicaba",
+      "zip": "13416-240",
+      "available": true
     },
     {
-      "id": "15172-shop-ibirapuera-",
-      "name": "15172",
-      "address": "SHOP IBIRAPUERA",
-      "city": "Av. Ibirapuera 3103",
-      "zip": "São Paulo",
-      "available": false
+      "id": "ribeirao-shop-av-coronel-fernando-ferreira-leite-1540-14026580",
+      "name": "RIBEIRAO SHOP",
+      "address": "Av. Coronel Fernando Ferreira Leite, 1540",
+      "city": "Ribeirão Preto",
+      "zip": "14026-580",
+      "available": true
     },
     {
-      "id": "15374-fs-sp-av-helio-pellegrino-1072-",
-      "name": "15374",
-      "address": "FS SP - AV HELIO PELLEGRINO 1072",
-      "city": "R. Periquito, 55",
-      "zip": "São Paulo",
-      "available": false
+      "id": "fs-sjc-rua-euclides-miragaia-445-12245902",
+      "name": "FS SJC",
+      "address": "Rua Euclides Miragaia, 445",
+      "city": "São José dos Campos",
+      "zip": "12245-902",
+      "available": true
     },
     {
-      "id": "17764-fs-barueri-av-alphaville-",
-      "name": "17764",
-      "address": "FS BARUERI - AV ALPHAVILLE",
-      "city": "Av. Yojiro Takaoka, 630",
-      "zip": "Barueri",
+      "id": "paroue-dom-pedro-shop-av-guilherme-campos-500-13087901",
+      "name": "PARǪUE DOM PEDRO SHOP",
+      "address": "Av. Guilherme Campos, 500",
+      "city": "Campinas",
+      "zip": "13087-901",
       "available": false
     },
     {
-      "id": "18269-shop-raposo-",
-      "name": "18269",
-      "address": "SHOP RAPOSO",
-      "city": "Rod. Raposo Tavares Km 14,5",
-      "zip": "São Paulo",
+      "id": "campinas-shop-r-jacy-texeira-camargo-940-13050008",
+      "name": "CAMPINAS SHOP",
+      "address": "R. Jacy Texeira Camargo, 940",
+      "city": "Campinas",
+      "zip": "13050-008",
       "available": false
     },
     {
-      "id": "15639-morumbi-shop-",
-      "name": "15639",
-      "address": "MORUMBI SHOP",
-      "city": "Av. Roque Petroni Júnior, 1089",
-      "zip": "São Paulo",
-      "available": false
+      "id": "shop-piracicaba-av-limeira-722-13414900",
+      "name": "SHOP PIRACICABA",
+      "address": "Av. Limeira, 722",
+      "city": "Piracicaba",
+      "zip": "13414-900",
+      "available": true
     },
     {
-      "id": "17620-shop-tambore-",
-      "name": "17620",
-      "address": "SHOP TAMBORE",
-      "city": "Av. Piracema, 669",
-      "zip": "Barueri",
-      "available": false
+      "id": "shop-vale-sul-av-andromeda-227-12230000",
+      "name": "SHOP VALE SUL",
+      "address": "Av. Andrômeda, 227",
+      "city": "São José dos Campos",
+      "zip": "12230-000",
+      "available": true
     },
     {
-      "id": "22910-fs-carapicuiba-dep-emilio-carlos-225-",
-      "name": "22910",
-      "address": "FS CARAPICUIBA - DEP EMILIO CARLOS 225",
-      "city": "Av. Deputado Emílio Carlos, 225",
-      "zip": "Carapicuíba",
-      "available": false
+      "id": "shop-serramar-av-jose-herculano-1086-11668600",
+      "name": "SHOP SERRAMAR",
+      "address": "Av. José Herculano, 1086",
+      "city": "Caraguatatuba",
+      "zip": "11668-600",
+      "available": true
     },
     {
-      "id": "27466-fs-barueri-av-henrioueta-mendes-guerra-",
-      "name": "27466",
-      "address": "FS BARUERI  AV HENRIǪUETA MENDES GUERRA",
-      "city": "AVENIDA VINTE E SEIS DE MARCO, 535",
-      "zip": "Barueri",
+      "id": "fs-sorocaba-av-antonio-carlos-comitre-s-n-18047620",
+      "name": "FS SOROCABA",
+      "address": "Av. Antônio Carlos Comitre, S/N",
+      "city": "Sorocaba",
+      "zip": "18047-620",
       "available": false
     },
     {
-      "id": "18422-shop-granja-viana-",
-      "name": "18422",
-      "address": "SHOP GRANJA VIANA",
-      "city": "Rod. Raposo Tavares, 23500",
-      "zip": "Cotia",
-      "available": false
+      "id": "fs-aracatuba-av-brasilia-761-16015460",
+      "name": "FS ARACATUBA",
+      "address": "Av. Brasília, 761",
+      "city": "Araçatuba",
+      "zip": "16015-460",
+      "available": true
+    },
+    {
+      "id": "fs-pres-prudente-av-washington-luiz-875-19015150",
+      "name": "FS PRES PRUDENTE",
+      "address": "Av. Washington Luiz, 875",
+      "city": "Presidente Prudente",
+      "zip": "19015-150",
+      "available": true
     },
     {
-      "id": "22515-fs-sp-av-eliseu-de-almeida-3440-",
-      "name": "22515",
-      "address": "FS SP - AV ELISEU DE ALMEIDA 3440",
-      "city": "R. Carlos Lisdegno Carlucci, 46",
-      "zip": "São Paulo",
+      "id": "fs-jau-av-deputado-zien-nassif-s-n-17203570",
+      "name": "FS JAU",
+      "address": "Av. Deputado Zien Nassif, S/N",
+      "city": "Jaú",
+      "zip": "17203-570",
       "available": false
     },
     {
-      "id": "25437-fs-sp-av-washington-luis-1171-",
-      "name": "25437",
-      "address": "FS SP - AV WASHINGTON LUIS 1171",
-      "city": "Av. Washington Luis, 1171",
-      "zip": "São Paulo",
+      "id": "fs-bauru-av-castelo-branco-194-av-castelo-branco-1-106-17052000",
+      "name": "FS BAURU  AV CASTELO BRANCO 194",
+      "address": "Av Castelo Branco, 1-106",
+      "city": "Bauru",
+      "zip": "17052-000",
+      "available": true
+    },
+    {
+      "id": "fs-jundiai-av-pref-luiz-latorre-s-n-13209430",
+      "name": "FS JUNDIAI",
+      "address": "Av. Pref. Luiz Latorre, S/N",
+      "city": "Jundiaí",
+      "zip": "13209-430",
       "available": false
     },
     {
-      "id": "25852-fs-sp-av-giovanni-gronchi-6600-",
-      "name": "25852",
-      "address": "FS SP - AV GIOVANNI GRONCHI 6600",
-      "city": "Av. Giovanni Gronchi, 6600",
-      "zip": "São Paulo",
+      "id": "fs-marilia-av-tiradentes-1008-17519000",
+      "name": "FS MARILIA",
+      "address": "Av. Tiradentes, 1008",
+      "city": "Marília",
+      "zip": "17519-000",
       "available": false
+    },
+    {
+      "id": "fs-avare-avenida-prefeito-paulo-de-araujo-novaes-61-18705000",
+      "name": "FS AVARE",
+      "address": "Avenida Prefeito Paulo de Araújo Novaes, 61",
+      "city": "Avaré",
+      "zip": "18705-000",
+      "available": true
+    },
+    {
+      "id": "fs-sjrp-r-professor-jamil-kauan-s-n-15015620",
+      "name": "FS SJRP",
+      "address": "R. Professor Jamil Kauan, S/N",
+      "city": "São José do Rio Preto",
+      "zip": "15015-620",
+      "available": true
+    },
+    {
+      "id": "fs-boituva-av-ari-vercelino-1400-18550000",
+      "name": "FS BOITUVA",
+      "address": "Av. Ari Vercelino, 1400",
+      "city": "Boituva",
+      "zip": "18550-000",
+      "available": true
     },
     {
-      "id": "28086-fs-sp-av-luis-gushiken-",
-      "name": "28086",
-      "address": "FS SP - AV LUIS GUSHIKEN",
-      "city": "Rua Pedro Durante, 48",
-      "zip": "São Paulo",
+      "id": "fs-indaiatuba-av-engenheiro-fabio-roberto-barnabe-1517-13330490",
+      "name": "FS INDAIATUBA",
+      "address": "Av. Engenheiro Fábio Roberto Barnabe, 1517",
+      "city": "Indaiatuba",
+      "zip": "13330-490",
       "available": false
+    },
+    {
+      "id": "shop-iguatemi-esplanada-ii-av-professora-izoraida-marques-peres-401-18048000",
+      "name": "SHOP IGUATEMI ESPLANADA II",
+      "address": "Av Professora Izoraida Marques Peres, 401",
+      "city": "Votorantim",
+      "zip": "18048-000",
+      "available": true
+    },
+    {
+      "id": "shop-bauru-r-henrique-savi-15-55-17011900",
+      "name": "SHOP BAURU",
+      "address": "R. Henrique Savi, 15 55",
+      "city": "Bauru",
+      "zip": "17011-900",
+      "available": true
+    },
+    {
+      "id": "maxi-shop-jundiai-av-antonio-frederico-ozanan-6000-13215900",
+      "name": "MAXI SHOP JUNDIAI",
+      "address": "Av. Antônio Frederico Ozanan, 6000",
+      "city": "Jundiaí",
+      "zip": "13215-900",
+      "available": true
     },
     {
-      "id": "26432-fs-sp-av-sen-teotonio-vilela-",
-      "name": "26432",
-      "address": "FS SP - AV SEN TEOTONIO VILELA",
-      "city": "Rua Rubem Souto de Araújo, 1011",
-      "zip": "São Paulo",
+      "id": "marilia-shop-r-tucunares-500-17507280",
+      "name": "MARILIA SHOP",
+      "address": "R. Tucunarés, 500",
+      "city": "Marília",
+      "zip": "17507-280",
+      "available": true
+    },
+    {
+      "id": "shop-la-plage-av-mal-deodoro-da-fonseca-885-11410221",
+      "name": "SHOP LA PLAGE",
+      "address": "Av. Mal. Deodoro Da Fonseca, 885",
+      "city": "Guarujá",
+      "zip": "11410-221",
       "available": false
+    },
+    {
+      "id": "fs-sbc-av-francisco-prestes-maia-1001-09770000",
+      "name": "FS SBC",
+      "address": "Av. Francisco Prestes Maia, 1001",
+      "city": "São Bernardo do Campo",
+      "zip": "09770-000",
+      "available": true
+    },
+    {
+      "id": "ils-shop-center-penha-sp-r-dr-joao-ribeiro-304-03178200",
+      "name": "ILS SHOP CENTER PENHA SP",
+      "address": "R. Dr. João Ribeiro, 304",
+      "city": "São Paulo",
+      "zip": "03178-200",
+      "available": true
     },
     {
-      "id": "28437-fs-sp-av-interlagos-3650-",
-      "name": "28437",
-      "address": "FS SP  AV INTERLAGOS 3650",
-      "city": "Av. Interlagos 3650",
-      "zip": "São Paulo",
+      "id": "shop-aricanduva-leste-av-aricanduva-5555-03527900",
+      "name": "SHOP ARICANDUVA LESTE",
+      "address": "Av. Aricanduva, 5555",
+      "city": "São Paulo",
+      "zip": "03527-900",
       "available": false
     },
     {
-      "id": "23740-fs-sp-av-moreira-guimaraes-700-",
-      "name": "23740",
-      "address": "FS SP - AV MOREIRA GUIMARAES 700",
-      "city": "Av. Moreira Guimarães, 700",
-      "zip": "São Paulo",
+      "id": "fs-sp-av-ragueb-chohfi-2142-08340001",
+      "name": "FS SP",
+      "address": "Av. Ragueb Chohfi, 2142",
+      "city": "São Paulo",
+      "zip": "08340-001",
+      "available": true
+    },
+    {
+      "id": "shop-central-plaza-av-dr-francisco-mesquita-1000-03153001",
+      "name": "SHOP CENTRAL PLAZA",
+      "address": "Av. Dr. Francisco Mesquita, 1000",
+      "city": "São Paulo",
+      "zip": "03153-001",
       "available": false
+    },
+    {
+      "id": "shop-plaza-sul-avenida-professor-abraao-de-morais-100-04123000",
+      "name": "SHOP PLAZA SUL",
+      "address": "Avenida Professor Abraao de Morais, 100",
+      "city": "São Paulo",
+      "zip": "04123-000",
+      "available": true
     },
     {
-      "id": "24744-fs-sp-av-vicente-rao-1700-",
-      "name": "24744",
-      "address": "FS SP - AV VICENTE RAO 1700",
-      "city": "Av. Vicente Rao, 1700",
-      "zip": "São Paulo",
+      "id": "shop-aricanduva-av-aricanduva-5555-03527900",
+      "name": "SHOP ARICANDUVA",
+      "address": "Av. Aricanduva, 5555",
+      "city": "São Paulo",
+      "zip": "03527-900",
       "available": false
+    },
+    {
+      "id": "praia-mar-shop-santos-r-alexandre-martins-80-11025200",
+      "name": "PRAIA MAR SHOP SANTOS",
+      "address": "R. Alexandre Martins, 80",
+      "city": "Santos",
+      "zip": "11025-200",
+      "available": true
     },
     {
-      "id": "19660-fs-sp-extra-jaguare-",
-      "name": "19660",
-      "address": "FS SP - EXTRA JAGUARE",
-      "city": "Av. Corifeu De Azevedo Marques, 4160",
-      "zip": "São Paulo",
+      "id": "shop-brisamar-sao-vicente-r-frei-gaspar-365-11310060",
+      "name": "SHOP BRISAMAR SAO VICENTE",
+      "address": "R. Frei Gaspar, 365",
+      "city": "São Vicente",
+      "zip": "11310-060",
       "available": false
+    },
+    {
+      "id": "litoral-plaza-shop-av-ayrton-senna-da-silva-1511-11726000",
+      "name": "LITORAL PLAZA SHOP",
+      "address": "Av. Ayrton Senna Da Silva, 1511",
+      "city": "Praia Grande",
+      "zip": "11726-000",
+      "available": true
+    },
+    {
+      "id": "shop-grand-plaza-av-industrial-600-09921340",
+      "name": "SHOP GRAND PLAZA",
+      "address": "Av. Industrial, 600",
+      "city": "Santo André",
+      "zip": "09921-340",
+      "available": true
+    },
+    {
+      "id": "shop-metropole-sbc-pca-samuel-sabatini-200-09750700",
+      "name": "SHOP METROPOLE SBC",
+      "address": "Pça Samuel Sabatini, 200",
+      "city": "São Bernardo do Campo",
+      "zip": "09750-700",
+      "available": true
+    },
+    {
+      "id": "shop-ibirapuera-av-ibirapuera-3103-04029902",
+      "name": "SHOP IBIRAPUERA",
+      "address": "Av. Ibirapuera 3103",
+      "city": "São Paulo",
+      "zip": "04029-902",
+      "available": true
     },
     {
-      "id": "19745-ilr-osasco-plaza-shop-",
-      "name": "19745",
-      "address": "ILR OSASCO PLAZA SHOP",
-      "city": "R. Tenente Avelar Pires De Azevedo, 81",
-      "zip": "Osasco",
+      "id": "fs-sp-r-periquito-55-04514050",
+      "name": "FS SP",
+      "address": "R. Periquito, 55",
+      "city": "São Paulo",
+      "zip": "04514-050",
+      "available": true
+    },
+    {
+      "id": "fs-barueri-av-yojiro-takaoka-630-06472010",
+      "name": "FS BARUERI",
+      "address": "Av. Yojiro Takaoka, 630",
+      "city": "Barueri",
+      "zip": "06472-010",
+      "available": true
+    },
+    {
+      "id": "shop-raposo-rod-raposo-tavares-km-14-5-05577200",
+      "name": "SHOP RAPOSO",
+      "address": "Rod. Raposo Tavares Km 14,5",
+      "city": "São Paulo",
+      "zip": "05577-200",
       "available": false
     },
     {
-      "id": "21824-osasco-plaza-shop-ii-",
-      "name": "21824",
-      "address": "OSASCO PLAZA SHOP II",
-      "city": "R. Tenente Avelar Pires De Azevedo, 81",
-      "zip": "Osasco",
+      "id": "morumbi-shop-av-roque-petroni-junior-1089-04707900",
+      "name": "MORUMBI SHOP",
+      "address": "Av. Roque Petroni Júnior, 1089",
+      "city": "São Paulo",
+      "zip": "04707-900",
       "available": false
+    },
+    {
+      "id": "shop-tambore-av-piracema-669-06460030",
+      "name": "SHOP TAMBORE",
+      "address": "Av. Piracema, 669",
+      "city": "Barueri",
+      "zip": "06460-030",
+      "available": true
     },
     {
-      "id": "21534-fs-embu-das-artes-elias-yazbek-708-",
-      "name": "21534",
-      "address": "FS EMBU DAS ARTES - ELIAS YAZBEK 708",
-      "city": "Av. Elias Yasbek, 708",
-      "zip": "Embu das Artes",
+      "id": "fs-carapicuiba-av-deputado-emilio-carlos-225-06310160",
+      "name": "FS CARAPICUIBA",
+      "address": "Av. Deputado Emílio Carlos, 225",
+      "city": "Carapicuíba",
+      "zip": "06310-160",
       "available": false
     },
     {
-      "id": "26827-fs-carapicuiba-av-inocencio-serafico-",
-      "name": "26827",
-      "address": "FS CARAPICUIBA - AV INOCENCIO SERAFICO",
-      "city": "Avenida Inocencio Serafico, 3469",
-      "zip": "Carapicuíba",
+      "id": "fs-barueri-av-henrioueta-mendes-guerra-avenida-vinte-e-seis-de-marco-535-06401050",
+      "name": "FS BARUERI  AV HENRIǪUETA MENDES GUERRA",
+      "address": "AVENIDA VINTE E SEIS DE MARCO, 535",
+      "city": "Barueri",
+      "zip": "06401-050",
       "available": false
+    },
+    {
+      "id": "shop-granja-viana-rod-raposo-tavares-23500-06709015",
+      "name": "SHOP GRANJA VIANA",
+      "address": "Rod. Raposo Tavares, 23500",
+      "city": "Cotia",
+      "zip": "06709-015",
+      "available": true
+    },
+    {
+      "id": "fs-sp-r-carlos-lisdegno-carlucci-46-05536000",
+      "name": "FS SP",
+      "address": "R. Carlos Lisdegno Carlucci, 46",
+      "city": "São Paulo",
+      "zip": "05536-000",
+      "available": true
     },
     {
-      "id": "24764-fs-sp-av-juscelino-kubitschek-1514-",
-      "name": "24764",
-      "address": "FS SP - AV JUSCELINO KUBITSCHEK 1514",
-      "city": "Avenida Juscelino Kubitscheck, 1514",
-      "zip": "São Paulo",
+      "id": "fs-sp-av-washington-luis-1171-04662002",
+      "name": "FS SP",
+      "address": "Av. Washington Luis, 1171",
+      "city": "São Paulo",
+      "zip": "04662-002",
+      "available": true
+    },
+    {
+      "id": "fs-sp-av-giovanni-gronchi-6600-05724002",
+      "name": "FS SP",
+      "address": "Av. Giovanni Gronchi, 6600",
+      "city": "São Paulo",
+      "zip": "05724-002",
       "available": false
     },
     {
-      "id": "26434-fs-sp-av-reboucas-2210-",
-      "name": "26434",
-      "address": "FS SP - AV REBOUCAS 2210",
-      "city": "Avenida Rebouças, 2184",
-      "zip": "São Paulo",
+      "id": "fs-sp-rua-pedro-durante-48-05830330",
+      "name": "FS SP",
+      "address": "Rua Pedro Durante, 48",
+      "city": "São Paulo",
+      "zip": "05830-330",
       "available": false
     },
     {
-      "id": "28345-fs-sp-pca-panamericana-",
-      "name": "28345",
-      "address": "FS SP - PÇA PANAMERICANA",
-      "city": "Praça Pan-Americana, 21",
-      "zip": "São Paulo",
+      "id": "fs-sp-rua-rubem-souto-de-araujo-1011-04836235",
+      "name": "FS SP",
+      "address": "Rua Rubem Souto de Araújo, 1011",
+      "city": "São Paulo",
+      "zip": "04836-235",
       "available": false
+    },
+    {
+      "id": "fs-sp-av-interlagos-3650-av-interlagos-3650-04660006",
+      "name": "FS SP  AV INTERLAGOS 3650",
+      "address": "Av. Interlagos 3650",
+      "city": "São Paulo",
+      "zip": "04660-006",
+      "available": true
     },
     {
-      "id": "15885-shop-eldorado-",
-      "name": "15885",
-      "address": "SHOP ELDORADO",
-      "city": "Av. Rebouças, 3970",
-      "zip": "São Paulo",
+      "id": "fs-sp-av-moreira-guimaraes-700-04074020",
+      "name": "FS SP",
+      "address": "Av. Moreira Guimarães, 700",
+      "city": "São Paulo",
+      "zip": "04074-020",
       "available": false
     },
     {
-      "id": "18415-shop-campo-limpo-",
-      "name": "18415",
-      "address": "SHOP CAMPO LIMPO",
-      "city": "Estr. De Itapecirica, 459",
-      "zip": "São Paulo",
+      "id": "fs-sp-av-vicente-rao-1700-04636001",
+      "name": "FS SP",
+      "address": "Av. Vicente Rao, 1700",
+      "city": "São Paulo",
+      "zip": "04636-001",
       "available": false
     },
     {
-      "id": "15173-shop-interlagos-",
-      "name": "15173",
-      "address": "SHOP INTERLAGOS",
-      "city": "Av. Interlagos 2255",
-      "zip": "São Paulo",
+      "id": "fs-sp-av-corifeu-de-azevedo-marques-4160-05340002",
+      "name": "FS SP",
+      "address": "Av. Corifeu De Azevedo Marques, 4160",
+      "city": "São Paulo",
+      "zip": "05340-002",
       "available": false
+    },
+    {
+      "id": "ilr-osasco-plaza-shop-r-tenente-avelar-pires-de-azevedo-81-06016060",
+      "name": "ILR OSASCO PLAZA SHOP",
+      "address": "R. Tenente Avelar Pires De Azevedo, 81",
+      "city": "Osasco",
+      "zip": "06016-060",
+      "available": true
+    },
+    {
+      "id": "osasco-plaza-shop-ii-r-tenente-avelar-pires-de-azevedo-81-06016060",
+      "name": "OSASCO PLAZA SHOP II",
+      "address": "R. Tenente Avelar Pires De Azevedo, 81",
+      "city": "Osasco",
+      "zip": "06016-060",
+      "available": true
+    },
+    {
+      "id": "fs-embu-das-artes-av-elias-yasbek-708-06803000",
+      "name": "FS EMBU DAS ARTES",
+      "address": "Av. Elias Yasbek, 708",
+      "city": "Embu das Artes",
+      "zip": "06803-000",
+      "available": true
     },
     {
-      "id": "16168-shop-sp-market-",
-      "name": "16168",
-      "address": "SHOP SP MARKET",
-      "city": "Av. Nações Unidas, 22540",
-      "zip": "São Paulo",
+      "id": "fs-carapicuiba-avenida-inocencio-serafico-3469-06380021",
+      "name": "FS CARAPICUIBA",
+      "address": "Avenida Inocencio Serafico, 3469",
+      "city": "Carapicuíba",
+      "zip": "06380-021",
+      "available": true
+    },
+    {
+      "id": "fs-sp-avenida-juscelino-kubitscheck-1514-04543000",
+      "name": "FS SP",
+      "address": "Avenida Juscelino Kubitscheck, 1514",
+      "city": "São Paulo",
+      "zip": "04543-000",
+      "available": true
+    },
+    {
+      "id": "fs-sp-avenida-reboucas-2184-05402300",
+      "name": "FS SP",
+      "address": "Avenida Rebouças, 2184",
+      "city": "São Paulo",
+      "zip": "05402-300",
+      "available": true
+    },
+    {
+      "id": "fs-sp-praca-pan-americana-21-05461000",
+      "name": "FS SP",
+      "address": "Praça Pan-Americana, 21",
+      "city": "São Paulo",
+      "zip": "05461-000",
+      "available": true
+    },
+    {
+      "id": "shop-eldorado-av-reboucas-3970-05402600",
+      "name": "SHOP ELDORADO",
+      "address": "Av. Rebouças, 3970",
+      "city": "São Paulo",
+      "zip": "05402-600",
       "available": false
+    },
+    {
+      "id": "shop-campo-limpo-estr-de-itapecirica-459-05777001",
+      "name": "SHOP CAMPO LIMPO",
+      "address": "Estr. De Itapecirica, 459",
+      "city": "São Paulo",
+      "zip": "05777-001",
+      "available": true
     },
     {
-      "id": "15490-super-shop-osasco-",
-      "name": "15490",
-      "address": "SUPER SHOP OSASCO",
-      "city": "Av. Dos Autonomistas, 1768",
-      "zip": "Osasco",
+      "id": "shop-interlagos-av-interlagos-2255-04661200",
+      "name": "SHOP INTERLAGOS",
+      "address": "Av. Interlagos 2255",
+      "city": "São Paulo",
+      "zip": "04661-200",
+      "available": true
+    },
+    {
+      "id": "shop-sp-market-av-nacoes-unidas-22540-04795000",
+      "name": "SHOP SP MARKET",
+      "address": "Av. Nações Unidas, 22540",
+      "city": "São Paulo",
+      "zip": "04795-000",
       "available": false
     },
     {
-      "id": "17251-shop-uniao-osasco-",
-      "name": "17251",
-      "address": "SHOP UNIAO OSASCO",
-      "city": "Av. Dos Autonomistas, 1400",
-      "zip": "Osasco",
+      "id": "super-shop-osasco-av-dos-autonomistas-1768-06020010",
+      "name": "SUPER SHOP OSASCO",
+      "address": "Av. Dos Autonomistas, 1768",
+      "city": "Osasco",
+      "zip": "06020-010",
       "available": false
+    },
+    {
+      "id": "shop-uniao-osasco-av-dos-autonomistas-1400-06020010",
+      "name": "SHOP UNIAO OSASCO",
+      "address": "Av. Dos Autonomistas, 1400",
+      "city": "Osasco",
+      "zip": "06020-010",
+      "available": true
     },
     {
-      "id": "17673-shop-taboao-",
-      "name": "17673",
-      "address": "SHOP TABOAO",
-      "city": "Rod. Régis Bittencourt Km 271,5",
-      "zip": "Taboão da Serra",
+      "id": "shop-taboao-rod-regis-bittencourt-km-271-5-06768200",
+      "name": "SHOP TABOAO",
+      "address": "Rod. Régis Bittencourt Km 271,5",
+      "city": "Taboão da Serra",
+      "zip": "06768-200",
       "available": false
     },
     {
-      "id": "18453-shop-itapevi-center-",
-      "name": "18453",
-      "address": "SHOP ITAPEVI CENTER",
-      "city": "Rod. Engenheiro Renê Benedito Da Silva, 200",
-      "zip": "Itapevi",
+      "id": "shop-itapevi-center-rod-engenheiro-rene-benedito-da-silva-200-06683000",
+      "name": "SHOP ITAPEVI CENTER",
+      "address": "Rod. Engenheiro Renê Benedito Da Silva, 200",
+      "city": "Itapevi",
+      "zip": "06683-000",
       "available": false
     }
   ]

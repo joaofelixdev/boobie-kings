@@ -46,15 +46,18 @@ export async function POST(request: NextRequest) {
       .map((row) => {
         if (row.length < 6) return null;
 
-        const rawNameField = row[0]?.trim() ?? '';
+        const rawNameField = row[1]?.trim() ?? '';
         const [namePart] = rawNameField.split(/\s*-\s*/);
         const name = namePart.trim();
         if (!name) return null;
 
-        const address = row[1]?.trim() ?? '';
-        const city = row[2]?.trim() ?? '';
-        const zip = row[3]?.trim() ?? '';
-        const availabilityRaw = row[4]?.trim().toLowerCase() ?? '';
+        const address = row[2]?.trim() ?? '';
+        const city = row[3]?.trim() ?? '';
+        const zip = row[4]?.trim() ?? '';
+        const availabilityRaw = row[5]?.trim().toLowerCase() ?? '';
+
+        console.log(availabilityRaw);
+
         const available = availabilityRaw === 'disponível';
         const id = normalizeId(name, address, zip);
 
