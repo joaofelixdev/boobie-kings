@@ -74,7 +74,7 @@ export async function POST(request: NextRequest) {
       .filter((x) => x !== null) as Store[];
 
     // 2) Prepara o JSON final, inserindo metadata.updated_at e data
-    const nowIso = new Date().toISOString();
+    const nowIso = new Date().toLocaleString('pt-BR', { timeZone: 'America/Sao_Paulo' });
     const output = {
       metadata: {
         updated_at: nowIso,

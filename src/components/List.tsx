@@ -31,7 +31,7 @@ export default function List({ stores, updatedAt }: Props) {
 
   useEffect(() => {
     setStores(stores);
-    setUpdatedAt(moment(updatedAt).format("DD/MM/YYYY HH:mm"))
+    setUpdatedAt(moment(updatedAt).format("MM/DD/yyyy HH:mm"))
   }, [stores, setStores]);
 
   const toggleSort = () => setSortOrder((prev) => (prev === "asc" ? "desc" : "asc"))
