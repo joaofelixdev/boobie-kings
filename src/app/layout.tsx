@@ -3,6 +3,7 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Warning from "@/components/Warning";
 import ScrollTop from "@/components/ScrollTop";
+import ClarityInit from "@/components/ClarityInit";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -29,6 +30,7 @@ export default function RootLayout({
       <body
         className={`${inter.variable} ${fredoka.variable} antialiased`}
       >
+        <ClarityInit />
         <Warning />
         <Header />
         {children}

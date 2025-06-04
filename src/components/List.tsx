@@ -8,6 +8,7 @@ import type { Store } from "@/@types/Store"
 import { useStore } from "@/stores/useStore"
 import { SelectNative } from "./ui/select-native"
 import { Fredoka } from "next/font/google"
+import moment from "moment"
 
 const fredoka = Fredoka({
   variable: "--font-fredoka",
@@ -15,19 +16,22 @@ const fredoka = Fredoka({
 });
 
 interface Props {
-  stores: Store[]
+  stores: Store[],
+  updatedAt: string,
 }
 
-export default function List({ stores }: Props) {
+export default function List({ stores, updatedAt }: Props) {
   const [sortOrder, setSortOrder] = useState<"asc" | "desc">("asc")
   const [searchTerm, setSearchTerm] = useState("")
   const [selectedCity, setSelectedCity] = useState("all")
 
   const setStores = useStore((s) => s.setStores);
   const setSelectedStore = useStore((s) => s.setSelectedStore)
+  const setUpdatedAt = useStore((s) => s.setUpdatedAt)
 
   useEffect(() => {
     setStores(stores);
+    setUpdatedAt(moment(updatedAt).format("DD/MM/YYYY HH:mm"))
   }, [stores, setStores]);
 
   const toggleSort = () => setSortOrder((prev) => (prev === "asc" ? "desc" : "asc"))
