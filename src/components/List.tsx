@@ -96,9 +96,9 @@ export default function List({ stores, updatedAt }: Props) {
           <div
             key={store.id}
             onClick={() => setSelectedStore(store)}
-            className="w-full min-h-[100px] bg-gray-100/40 hover:bg-gray-200
-              rounded-lg px-6 py-4 transition-colors duration-500 cursor-pointer
-              flex justify-between items-center gap-4 border-2 border-black"
+            className="w-full min-h-[100px] bg-gray-100/40 hover:bg-gray-200/80
+              rounded-lg px-6 py-4 transition-all duration-500 cursor-pointer
+              flex justify-between items-center gap-4 border-2 border-black hover:scale-102"
           >
             <div className="flex-1">
               <span className={`${fredoka.className} text-xl`}>{store.name}</span>
