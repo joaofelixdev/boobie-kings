@@ -4,6 +4,7 @@ import Header from "@/components/Header";
 import Warning from "@/components/Warning";
 import ScrollTop from "@/components/ScrollTop";
 import ClarityInit from "@/components/ClarityInit";
+import GeolocationFetcher from "@/components/GeolocationFetcher";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -31,6 +32,7 @@ export default function RootLayout({
         className={`${inter.variable} ${fredoka.variable} antialiased`}
       >
         <ClarityInit />
+        <GeolocationFetcher />
         <Warning />
         <Header />
         {children}

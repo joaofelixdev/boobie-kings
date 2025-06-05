@@ -6,4 +6,6 @@ export type Store = {
     zip: string,
     available: boolean,
     kit?: boolean,
+    lat?: number,
+    lng?: number,
 }
