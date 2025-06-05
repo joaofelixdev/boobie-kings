@@ -5,8 +5,6 @@ import bkBoobieGoods from '@/../public/images/bk-boobie-goods.png'
 import { useStore } from '../stores/useStore'
 import { Fredoka } from 'next/font/google';
 import Link from 'next/link';
-
-import me from '@/../public/images/me.webp'
 import { Avatar, AvatarFallback, AvatarImage } from './ui/avatar';
 
 const fredoka = Fredoka({

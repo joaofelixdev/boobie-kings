@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { useLocationStore } from "@/stores/useLocationStore";
 
 export default function GeolocationFetcher() {
@@ -13,7 +13,7 @@ export default function GeolocationFetcher() {
       (pos) => {
         setLocation(pos.coords.latitude, pos.coords.longitude);
       },
-      (err) => {},
+      (err) => {console.log(err)},
       {
         enableHighAccuracy: true,
         timeout: 10000,
