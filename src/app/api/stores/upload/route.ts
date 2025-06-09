@@ -57,7 +57,7 @@ export async function POST(request: NextRequest) {
         const address = row[1]?.trim() ?? '';
         const city = row[2]?.trim() ?? '';
         const zip = row[3]?.trim() ?? '';
-        const availabilityRaw = row[5]?.trim().toLowerCase() ?? '';
+        const availabilityRaw = row[4]?.trim().toLowerCase() ?? '';
 
         const available = availabilityRaw !== 'esgotada';
         const id = normalizeId(name, address, zip);

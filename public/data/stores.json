@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "09/06/2025, 19:04:18",
+    "updated_at": "09/06/2025, 19:09:49",
     "geocoded": true
   },
   "data": [
@@ -37,8 +37,8 @@
       "city": "Belem",
       "zip": "66035-170",
       "available": true,
-      "lat": -1.4533399,
-      "lng": -48.4902566
+      "lat": -1.4532862,
+      "lng": -48.4900613
     },
     {
       "id": "bkb-drive-bias-fortes-av-bias-fortes-30170122",
@@ -47,8 +47,8 @@
       "city": "Belo Horizonte",
       "zip": "30170-122",
       "available": true,
-      "lat": -19.927904,
-      "lng": -43.9420404
+      "lat": -19.9281807,
+      "lng": -43.9418733
     },
     {
       "id": "bkb-drive-taguatinga-setor-a-sul-pll-setor-a-sul-pll-taguatinga-q-qsa-3-5-area-espec-s-n-a-sul-pll-72015034",
@@ -75,8 +75,8 @@
       "city": "Cuiaba",
       "zip": "78050-250",
       "available": true,
-      "lat": -15.5775478,
-      "lng": -56.0713461
+      "lat": -15.5765432,
+      "lng": -56.0719336
     },
     {
       "id": "bkb-il-florianopolis-r-jeronimo-coelho-215-88010030",
@@ -85,8 +85,8 @@
       "city": "Florianopolis",
       "zip": "88010-030",
       "available": true,
-      "lat": -27.5971334,
-      "lng": -48.5532168
+      "lat": -27.5971202,
+      "lng": -48.5532066
     },
     {
       "id": "bkb-drive-goiania-avenida-t63-av-t-63-1672-74280230",
@@ -105,8 +105,8 @@
       "city": "Joao Pessoa",
       "zip": "58073-172",
       "available": true,
-      "lat": -7.1603772,
-      "lng": -34.8189635
+      "lat": -7.1606458,
+      "lng": -34.8096845
     },
     {
       "id": "bkb-drive-maceio-fernades-lima-av-fernandes-lima-830-57052050",
@@ -115,8 +115,8 @@
       "city": "Maceio",
       "zip": "57052-050",
       "available": true,
-      "lat": -9.6341567,
-      "lng": -35.7365441
+      "lat": -9.6125096,
+      "lng": -35.7401415
     },
     {
       "id": "bkb-drive-natal-av-bacharel-tomaz-landim-31391-av-bacharel-tomaz-landim-3042-59104212",
@@ -125,8 +125,8 @@
       "city": "Natal",
       "zip": "59104-212",
       "available": true,
-      "lat": -5.773311,
-      "lng": -35.2601346
+      "lat": -5.766309,
+      "lng": -35.2786996
     },
     {
       "id": "bkb-drive-recife-agamenon-magalhaes-avenida-governador-agamenon-magalhaes-111-52010075",
@@ -135,8 +135,8 @@
       "city": "Recife",
       "zip": "52010-075",
       "available": true,
-      "lat": -8.0526306,
-      "lng": -34.8956729
+      "lat": -8.053023,
+      "lng": -34.8959549
     },
     {
       "id": "bkb-acm-salvador-av-antonio-carlos-magalhaes-s-n-41800700",
@@ -145,8 +145,8 @@
       "city": "Salvador",
       "zip": "41800-700",
       "available": true,
-      "lat": -12.9961162,
-      "lng": -38.4675184
+      "lat": -12.9961072,
+      "lng": -38.4676824
     },
     {
       "id": "bkb-drive-fs-manoel-dias-avenida-manoel-dias-da-silva-1879-41830000",
@@ -155,8 +155,8 @@
       "city": "Salvador",
       "zip": "41830-000",
       "available": true,
-      "lat": -13.0085482,
-      "lng": -38.4641873
+      "lat": -13.0086456,
+      "lng": -38.4643303
     },
     {
       "id": "bkb-shopping-da-ilha-av-daniel-de-la-touche-987-65074115",
@@ -175,8 +175,8 @@
       "city": "Vitoria",
       "zip": "29050-420",
       "available": true,
-      "lat": -20.3127734,
-      "lng": -40.2878519
+      "lat": -20.3137678,
+      "lng": -40.2875596
     },
     {
       "id": "fs-americana-r-julio-prestes-s-n-13465620",
@@ -185,8 +185,8 @@
       "city": "Americana",
       "zip": "13465-620",
       "available": true,
-      "lat": -22.7416922,
-      "lng": -47.3353377
+      "lat": -22.7419263,
+      "lng": -47.3352253
     },
     {
       "id": "fs-aracatuba-av-brasilia-761-16015460",
@@ -195,8 +195,8 @@
       "city": "Araçatuba",
       "zip": "16015-460",
       "available": true,
-      "lat": -21.2314121,
-      "lng": -50.4389574
+      "lat": -21.2311215,
+      "lng": -50.4389738
     },
     {
       "id": "fs-araraquara-av-padre-francisco-sales-colturato-470-14801250",
@@ -213,8 +213,8 @@
       "city": "Araras",
       "zip": "13603-134",
       "available": true,
-      "lat": -22.357395,
-      "lng": -47.3746366
+      "lat": -22.3604181,
+      "lng": -47.3904635
     },
     {
       "id": "fs-avare-avenida-prefeito-paulo-de-araujo-novaes-61-18705000",
@@ -231,8 +231,8 @@
       "city": "Barueri",
       "zip": "06472-010",
       "available": true,
-      "lat": -23.4850164,
-      "lng": -46.8577942
+      "lat": -23.4850391,
+      "lng": -46.8581705
     },
     {
       "id": "fs-bauru-av-castelo-branco-194-av-castelo-branco-1-106-17052000",
@@ -269,8 +269,8 @@
       "city": "Campinas",
       "zip": "13025-320",
       "available": true,
-      "lat": -22.8876933,
-      "lng": -47.0444233
+      "lat": -22.8875139,
+      "lng": -47.0443801
     },
     {
       "id": "shop-serramar-av-jose-herculano-1086-11668600",
@@ -299,8 +299,8 @@
       "city": "Itatiba",
       "zip": "13255-350",
       "available": true,
-      "lat": -23.0219225,
-      "lng": -46.8423718
+      "lat": -23.0208131,
+      "lng": -46.8424071
     },
     {
       "id": "shop-independencia-av-presidente-itamar-franco-3600-36025290",
@@ -309,8 +309,8 @@
       "city": "Juiz de Fora",
       "zip": "36025-290",
       "available": true,
-      "lat": -21.7814377,
-      "lng": -43.3621626
+      "lat": -21.7822647,
+      "lng": -43.3612999
     },
     {
       "id": "fs-jf-av-barao-do-rio-branco-3234-36021630",
@@ -319,8 +319,8 @@
       "city": "Juiz de Fora",
       "zip": "36021-630",
       "available": true,
-      "lat": -21.7731266,
-      "lng": -43.3464936
+      "lat": -21.7731303,
+      "lng": -43.3464926
     },
     {
       "id": "maxi-shop-jundiai-av-antonio-frederico-ozanan-6000-13215900",
@@ -339,8 +339,8 @@
       "city": "Leme",
       "zip": "13614-032",
       "available": true,
-      "lat": -22.1780607,
-      "lng": -47.3782959
+      "lat": -22.1780689,
+      "lng": -47.3782891
     },
     {
       "id": "marilia-shop-r-tucunares-500-17507280",
@@ -379,8 +379,8 @@
       "city": "Piracicaba",
       "zip": "13414-900",
       "available": true,
-      "lat": -22.7035911,
-      "lng": -47.6497159
+      "lat": -22.7040942,
+      "lng": -47.6494677
     },
     {
       "id": "litoral-plaza-shop-av-ayrton-senna-da-silva-1511-11726000",
@@ -399,8 +399,8 @@
       "city": "Presidente Prudente",
       "zip": "19015-150",
       "available": true,
-      "lat": -22.1153218,
-      "lng": -51.4099831
+      "lat": -22.1197143,
+      "lng": -51.3896112
     },
     {
       "id": "shop-santa-ursula-r-sao-jose-993-14010160",
@@ -409,8 +409,8 @@
       "city": "Ribeirão Preto",
       "zip": "14010-160",
       "available": true,
-      "lat": -21.1804783,
-      "lng": -47.807086
+      "lat": -21.1804616,
+      "lng": -47.8070711
     },
     {
       "id": "fs-ribeirao-preto-av-capitao-salomao-2360-av-capitao-salomao-2360-14085440",
@@ -477,8 +477,8 @@
       "city": "São José do Rio Preto",
       "zip": "15015-620",
       "available": true,
-      "lat": -20.8159863,
-      "lng": -49.3922195
+      "lat": -20.8162316,
+      "lng": -49.392488
     },
     {
       "id": "centervale-shop-av-dep-benedito-matarazzo-9403-12215900",
@@ -487,8 +487,8 @@
       "city": "São José dos Campos",
       "zip": "12215-900",
       "available": true,
-      "lat": -23.2259236,
-      "lng": -45.9071951
+      "lat": -23.2349879,
+      "lng": -45.9169481
     },
     {
       "id": "fs-sjc-rua-euclides-miragaia-445-12245902",
@@ -595,8 +595,8 @@
       "city": "São Paulo",
       "zip": "08340-001",
       "available": true,
-      "lat": -23.5988132,
-      "lng": -46.4664671
+      "lat": -23.595956,
+      "lng": -46.4528543
     },
     {
       "id": "shop-plaza-sul-avenida-professor-abraao-de-morais-100-04123000",
@@ -635,8 +635,8 @@
       "city": "São Paulo",
       "zip": "04543-000",
       "available": true,
-      "lat": -23.201846,
-      "lng": -46.7771054
+      "lat": -23.2019159,
+      "lng": -46.7773976
     },
     {
       "id": "shop-iguatemi-esplanada-ii-av-professora-izoraida-marques-peres-401-18048000",
@@ -655,8 +655,8 @@
       "city": "Fortaleza",
       "zip": "60040-212",
       "available": true,
-      "lat": -3.7410789,
-      "lng": -38.5389303
+      "lat": -3.741655,
+      "lng": -38.5382582
     },
     {
       "id": "bkb-santos-dumont-drive-av-santos-dumont-1859-60177415",
@@ -674,7 +674,7 @@
       "address": "Carlos Klemtz, 1994, Fazendinha",
       "city": "Curitiba",
       "zip": "81320-000",
-      "available": true,
+      "available": false,
       "lat": -25.4780871,
       "lng": -49.3294837
     },
@@ -684,7 +684,7 @@
       "address": "Rua Francisco Frishmann, 3151",
       "city": "Curitiba",
       "zip": "80320-250",
-      "available": true
+      "available": false
     },
     {
       "id": "bkb-av-ipiranga-av-ipiranga-1600-90160091",
@@ -692,9 +692,9 @@
       "address": "Av. Ipiranga, 1600",
       "city": "Porto Alegre",
       "zip": "90160-091",
-      "available": true,
-      "lat": -30.0471323,
-      "lng": -51.2128217
+      "available": false,
+      "lat": -30.0471137,
+      "lng": -51.2127851
     },
     {
       "id": "fs-sp-avenida-reboucas-2184-05402300",
@@ -702,7 +702,7 @@
       "address": "Avenida Rebouças, 2184",
       "city": "São Paulo",
       "zip": "05402-300",
-      "available": true,
+      "available": false,
       "lat": -23.566793,
       "lng": -46.6824892
     },
@@ -712,7 +712,7 @@
       "address": "Praça Pan-Americana, 21",
       "city": "São Paulo",
       "zip": "05461-000",
-      "available": true
+      "available": false
     },
     {
       "id": "fs-atibaia-al-prof-lucas-nogueira-garcez-3586-12942020",
@@ -720,9 +720,9 @@
       "address": "Al. Prof. Lucas Nogueira Garcez, 3586",
       "city": "Atibaia",
       "zip": "12942-020",
-      "available": true,
-      "lat": -23.1205307,
-      "lng": -46.5508266
+      "available": false,
+      "lat": -23.1204241,
+      "lng": -46.5526998
     },
     {
       "id": "shop-tambore-av-piracema-669-06460030",
@@ -730,7 +730,7 @@
       "address": "Av. Piracema, 669",
       "city": "Barueri",
       "zip": "06460-030",
-      "available": true,
+      "available": false,
       "lat": -23.4995009,
       "lng": -46.8324763
     },
@@ -740,7 +740,7 @@
       "address": "AVENIDA VINTE E SEIS DE MARCO, 535",
       "city": "Barueri",
       "zip": "06401-050",
-      "available": true,
+      "available": false,
       "lat": -23.5109667,
       "lng": -46.8817695
     },
@@ -750,7 +750,7 @@
       "address": "R. Henrique Terra, 1700",
       "city": "Cabo Frio",
       "zip": "28911-320",
-      "available": true,
+      "available": false,
       "lat": -22.8730441,
       "lng": -42.0356885
     },
@@ -760,7 +760,7 @@
       "address": "Av. Iguatemi, 777",
       "city": "Campinas",
       "zip": "13092-902",
-      "available": true,
+      "available": false,
       "lat": -22.8924024,
       "lng": -47.0272094
     },
@@ -770,7 +770,7 @@
       "address": "Av. Brasil, 761",
       "city": "Campinas",
       "zip": "13073-012",
-      "available": true,
+      "available": false,
       "lat": -22.8620452,
       "lng": -46.965633
     },
@@ -780,7 +780,7 @@
       "address": "Av. John Boyd Dunlop, 3900",
       "city": "Campinas",
       "zip": "13059-587",
-      "available": true,
+      "available": false,
       "lat": -22.9253226,
       "lng": -47.1269038
     },
@@ -790,9 +790,9 @@
       "address": "Rua Treze de Maio, 734",
       "city": "Campinas",
       "zip": "13010-071",
-      "available": true,
-      "lat": -22.8718947,
-      "lng": -46.9622831
+      "available": false,
+      "lat": -22.8683094,
+      "lng": -46.9584922
     },
     {
       "id": "parque-dom-pedro-shop-av-guilherme-campos-500-13087901",
@@ -800,7 +800,7 @@
       "address": "Av. Guilherme Campos, 500",
       "city": "Campinas",
       "zip": "13087-901",
-      "available": true,
+      "available": false,
       "lat": -22.8502019,
       "lng": -47.062371
     },
@@ -810,7 +810,7 @@
       "address": "R. Jacy Texeira Camargo, 940",
       "city": "Campinas",
       "zip": "13050-008",
-      "available": true
+      "available": false
     },
     {
       "id": "fs-carapicuiba-avenida-inocencio-serafico-3469-06380021",
@@ -818,7 +818,7 @@
       "address": "Avenida Inocencio Serafico, 3469",
       "city": "Carapicuíba",
       "zip": "06380-021",
-      "available": true,
+      "available": false,
       "lat": -23.5501478,
       "lng": -46.8351038
     },
@@ -828,7 +828,7 @@
       "address": "Av. Deputado Emílio Carlos, 225",
       "city": "Carapicuíba",
       "zip": "06310-160",
-      "available": true,
+      "available": false,
       "lat": -23.5177894,
       "lng": -46.8387367
     },
@@ -838,7 +838,7 @@
       "address": "Rod. Raposo Tavares, 23500",
       "city": "Cotia",
       "zip": "06709-015",
-      "available": true
+      "available": false
     },
     {
       "id": "caxias-shop-rod-washington-luiz-2895-25085008",
@@ -846,7 +846,7 @@
       "address": "Rod. Washington Luiz, 2895",
       "city": "Duque de Caxias",
       "zip": "25085-008",
-      "available": true
+      "available": false
     },
     {
       "id": "fs-duque-de-caxias-av-brigadeiro-lima-e-silva-711-25085131",
@@ -854,9 +854,9 @@
       "address": "Av. Brigadeiro Lima e Silva, 711",
       "city": "Duque de Caxias",
       "zip": "25085-131",
-      "available": true,
-      "lat": -22.7999653,
-      "lng": -43.2927485
+      "available": false,
+      "lat": -22.7966528,
+      "lng": -43.294946
     },
     {
       "id": "fs-embu-das-artes-av-elias-yasbek-708-06803000",
@@ -864,7 +864,7 @@
       "address": "Av. Elias Yasbek, 708",
       "city": "Embu das Artes",
       "zip": "06803-000",
-      "available": true
+      "available": false
     },
     {
       "id": "ils-franca-shop-av-rio-negro-1100-14406005",
@@ -872,7 +872,7 @@
       "address": "Av. Rio Negro, 1100",
       "city": "Franca",
       "zip": "14406-005",
-      "available": true,
+      "available": false,
       "lat": -20.5472134,
       "lng": -47.4160046
     },
@@ -882,7 +882,7 @@
       "address": "Av. Mal. Deodoro Da Fonseca, 885",
       "city": "Guarujá",
       "zip": "11410-221",
-      "available": true,
+      "available": false,
       "lat": -23.9991109,
       "lng": -46.2605292
     },
@@ -892,7 +892,7 @@
       "address": "Av. Bartholomeu De Carlos, 230",
       "city": "Guarulhos",
       "zip": "07097-420",
-      "available": true,
+      "available": false,
       "lat": -23.439994,
       "lng": -46.5438925
     },
@@ -902,9 +902,9 @@
       "address": "Av. Engenheiro Fábio Roberto Barnabe, 1517",
       "city": "Indaiatuba",
       "zip": "13330-490",
-      "available": true,
-      "lat": -23.0945973,
-      "lng": -47.2254124
+      "available": false,
+      "lat": -23.0886743,
+      "lng": -47.2255651
     },
     {
       "id": "shop-itapevi-center-rod-engenheiro-rene-benedito-da-silva-200-06683000",
@@ -912,7 +912,7 @@
       "address": "Rod. Engenheiro Renê Benedito Da Silva, 200",
       "city": "Itapevi",
       "zip": "06683-000",
-      "available": true
+      "available": false
     },
     {
       "id": "fs-jau-av-deputado-zien-nassif-s-n-17203570",
@@ -920,7 +920,7 @@
       "address": "Av. Deputado Zien Nassif, S/N",
       "city": "Jaú",
       "zip": "17203-570",
-      "available": true,
+      "available": false,
       "lat": -22.2804069,
       "lng": -48.567327
     },
@@ -930,7 +930,7 @@
       "address": "Av. Pref. Luiz Latorre, S/N",
       "city": "Jundiaí",
       "zip": "13209-430",
-      "available": true
+      "available": false
     },
     {
       "id": "fs-rj-rua-maria-francisca-borges-rego-reid-27933260",
@@ -938,7 +938,7 @@
       "address": "Rua Maria Francisca Borges Rego Reid",
       "city": "Macaé",
       "zip": "27933-260",
-      "available": true
+      "available": false
     },
     {
       "id": "fs-marilia-av-tiradentes-1008-17519000",
@@ -946,7 +946,7 @@
       "address": "Av. Tiradentes, 1008",
       "city": "Marília",
       "zip": "17519-000",
-      "available": true,
+      "available": false,
       "lat": -22.2241558,
       "lng": -49.9356669
     },
@@ -956,7 +956,7 @@
       "address": "R. Xv De Novembro, 8",
       "city": "Niterói",
       "zip": "24025-970",
-      "available": true,
+      "available": false,
       "lat": -22.8967206,
       "lng": -43.1239169
     },
@@ -966,9 +966,9 @@
       "address": "R. Gavião Peixoto, 35",
       "city": "Niterói",
       "zip": "24230-090",
-      "available": true,
-      "lat": -22.9035276,
-      "lng": -43.1102441
+      "available": false,
+      "lat": -22.9033796,
+      "lng": -43.1104084
     },
     {
       "id": "shop-nova-iguacu-av-abilio-augusto-tavora-1061-26262020",
@@ -976,9 +976,9 @@
       "address": "Av. Abílio Augusto Távora, 1061",
       "city": "Nova Iguaçu",
       "zip": "26262-020",
-      "available": true,
-      "lat": -22.8276216,
-      "lng": -43.6034051
+      "available": false,
+      "lat": -22.8276239,
+      "lng": -43.6003368
     },
     {
       "id": "fs-nova-iguacu-rodovia-presidente-dutra-13006-26221190",
@@ -986,9 +986,9 @@
       "address": "Rodovia Presidente Dutra, 13006",
       "city": "Nova Iguaçu",
       "zip": "26221-190",
-      "available": true,
-      "lat": -22.7400755,
-      "lng": -43.4581955
+      "available": false,
+      "lat": -22.7399614,
+      "lng": -43.4601615
     },
     {
       "id": "fs-nova-iguacu-rodovia-presidente-dutra-14251-26221190",
@@ -996,9 +996,9 @@
       "address": "Rodovia Presidente Dutra, 14251",
       "city": "Nova Iguaçu",
       "zip": "26221-190",
-      "available": true,
-      "lat": -22.7400755,
-      "lng": -43.4581955
+      "available": false,
+      "lat": -22.7399614,
+      "lng": -43.4601615
     },
     {
       "id": "ilr-osasco-plaza-shop-r-tenente-avelar-pires-de-azevedo-81-06016060",
@@ -1006,7 +1006,7 @@
       "address": "R. Tenente Avelar Pires De Azevedo, 81",
       "city": "Osasco",
       "zip": "06016-060",
-      "available": true,
+      "available": false,
       "lat": -23.5292939,
       "lng": -46.7778555
     },
@@ -1016,7 +1016,7 @@
       "address": "Av. Dos Autonomistas, 1400",
       "city": "Osasco",
       "zip": "06020-010",
-      "available": true,
+      "available": false,
       "lat": -23.5389781,
       "lng": -46.7653358
     },
@@ -1026,7 +1026,7 @@
       "address": "Av. Dos Autonomistas, 1768",
       "city": "Osasco",
       "zip": "06020-010",
-      "available": true,
+      "available": false,
       "lat": -23.5382175,
       "lng": -46.7708867
     },
@@ -1036,9 +1036,9 @@
       "address": "R. 14, 909",
       "city": "Rio Claro",
       "zip": "13504-164",
-      "available": true,
-      "lat": -22.423609,
-      "lng": -47.5656764
+      "available": false,
+      "lat": -22.4167747,
+      "lng": -47.5685057
     },
     {
       "id": "fs-rj-av-dom-helder-camara-5911-20771035",
@@ -1046,9 +1046,9 @@
       "address": "Av. Dom Helder Câmara, 5911",
       "city": "Rio de Janeiro",
       "zip": "20771-035",
-      "available": true,
-      "lat": -22.8803916,
-      "lng": -43.258928
+      "available": false,
+      "lat": -22.8910864,
+      "lng": -43.2416843
     },
     {
       "id": "fs-rj-av-das-americas-17431-22790703",
@@ -1056,7 +1056,7 @@
       "address": "Av. das Américas, 17431",
       "city": "Rio de Janeiro",
       "zip": "22790-703",
-      "available": true,
+      "available": false,
       "lat": -23.0176895,
       "lng": -43.4781773
     },
@@ -1066,7 +1066,7 @@
       "address": "R. Fonseca, 240",
       "city": "Rio de Janeiro",
       "zip": "21820-005",
-      "available": true,
+      "available": false,
       "lat": -22.8791681,
       "lng": -43.4670603
     },
@@ -1076,9 +1076,9 @@
       "address": "Estr. Do Monteiro, 1200",
       "city": "Rio de Janeiro",
       "zip": "23036-340",
-      "available": true,
-      "lat": -22.9264594,
-      "lng": -43.5760588
+      "available": false,
+      "lat": -22.9278687,
+      "lng": -43.5747814
     },
     {
       "id": "ilr-rj-r-senador-dantas-177-26440100",
@@ -1086,7 +1086,7 @@
       "address": "R. Senador Dantas, 177",
       "city": "Rio de Janeiro",
       "zip": "26440-100",
-      "available": true,
+      "available": false,
       "lat": -22.9104364,
       "lng": -43.177355
     },
@@ -1096,9 +1096,9 @@
       "address": "R. Itapera, 500",
       "city": "Rio de Janeiro",
       "zip": "21230-500",
-      "available": true,
-      "lat": -22.8225012,
-      "lng": -43.3200403
+      "available": false,
+      "lat": -22.8230781,
+      "lng": -43.3197842
     },
     {
       "id": "barra-shop-rj-av-das-americas-4666-22640102",
@@ -1106,7 +1106,7 @@
       "address": "Av Das Américas, 4666",
       "city": "Rio de Janeiro",
       "zip": "22640-102",
-      "available": true,
+      "available": false,
       "lat": -22.9983212,
       "lng": -43.3558548
     },
@@ -1116,9 +1116,9 @@
       "address": "Estrada dos Bandeirantes, 330",
       "city": "Rio de Janeiro",
       "zip": "22775-110",
-      "available": true,
-      "lat": -22.9528344,
-      "lng": -43.3748844
+      "available": false,
+      "lat": -22.9523667,
+      "lng": -43.375321
     },
     {
       "id": "fc-etr-rodrigues-caldas-127-suc-4007-piso-l4-22730250",
@@ -1126,7 +1126,7 @@
       "address": "ETR Rodrigues Caldas, 127 Suc 4007 Piso L4",
       "city": "Rio de Janeiro",
       "zip": "22730-250",
-      "available": true
+      "available": false
     },
     {
       "id": "west-shop-estr-do-mendanha-555-23087283",
@@ -1134,7 +1134,7 @@
       "address": "Estr. Do Mendanha, 555",
       "city": "Rio de Janeiro",
       "zip": "23087-283",
-      "available": true,
+      "available": false,
       "lat": -22.884572,
       "lng": -43.5577678
     },
@@ -1144,9 +1144,9 @@
       "address": "Rua Francisco Real, 924",
       "city": "Rio de Janeiro",
       "zip": "21810-042",
-      "available": true,
-      "lat": -22.8796009,
-      "lng": -43.460214
+      "available": false,
+      "lat": -22.8796632,
+      "lng": -43.4651752
     },
     {
       "id": "shop-boulevard-rio-r-barao-de-sao-francisco-236-20560030",
@@ -1154,7 +1154,7 @@
       "address": "R. Barão De São Francisco, 236",
       "city": "Rio de Janeiro",
       "zip": "20560-030",
-      "available": true,
+      "available": false,
       "lat": -22.9194148,
       "lng": -43.250161
     },
@@ -1164,7 +1164,7 @@
       "address": "R. General Roca, 675",
       "city": "Rio de Janeiro",
       "zip": "20521-070",
-      "available": true,
+      "available": false,
       "lat": -22.9250454,
       "lng": -43.2330397
     },
@@ -1174,7 +1174,7 @@
       "address": "Av. Francisco Pereira Lopes, 1701",
       "city": "São Carlos",
       "zip": "13561-250",
-      "available": true,
+      "available": false,
       "lat": -22.0047454,
       "lng": -47.9051293
     },
@@ -1184,7 +1184,7 @@
       "address": "Av. São Gonçalo, 100",
       "city": "São Gonçalo",
       "zip": "24445-010",
-      "available": true,
+      "available": false,
       "lat": -22.8151144,
       "lng": -43.0703818
     },
@@ -1194,7 +1194,7 @@
       "address": "R. Maria Soares Sendas, 111",
       "city": "São João de Meriti",
       "zip": "25575-825",
-      "available": true,
+      "available": false,
       "lat": -22.7969767,
       "lng": -43.3514164
     },
@@ -1204,7 +1204,7 @@
       "address": "R. Periquito, 55",
       "city": "São Paulo",
       "zip": "04514-050",
-      "available": true,
+      "available": false,
       "lat": -23.5990948,
       "lng": -46.6723338
     },
@@ -1214,9 +1214,9 @@
       "address": "R. Carlos Lisdegno Carlucci, 46",
       "city": "São Paulo",
       "zip": "05536-000",
-      "available": true,
-      "lat": -23.5906346,
-      "lng": -46.7380127
+      "available": false,
+      "lat": -23.5887436,
+      "lng": -46.7385436
     },
     {
       "id": "fs-sp-av-washington-luis-1171-04662002",
@@ -1224,7 +1224,7 @@
       "address": "Av. Washington Luis, 1171",
       "city": "São Paulo",
       "zip": "04662-002",
-      "available": true,
+      "available": false,
       "lat": -23.6562487,
       "lng": -46.694272
     },
@@ -1234,7 +1234,7 @@
       "address": "Av. Interlagos 2255",
       "city": "São Paulo",
       "zip": "04661-200",
-      "available": true,
+      "available": false,
       "lat": -23.6762873,
       "lng": -46.6768114
     },
@@ -1244,7 +1244,7 @@
       "address": "Av. Angélica, 1076",
       "city": "São Paulo",
       "zip": "01228-100",
-      "available": true,
+      "available": false,
       "lat": -23.5421444,
       "lng": -46.6562112
     },
@@ -1254,7 +1254,7 @@
       "address": "Av. Presidente Juscelino Kubitschek, 2041",
       "city": "São Paulo",
       "zip": "04543-011",
-      "available": true,
+      "available": false,
       "lat": -23.5908988,
       "lng": -46.689525
     },
@@ -1264,9 +1264,9 @@
       "address": "Av Jose Maria Whitaker, 418",
       "city": "São Paulo",
       "zip": "04026-002",
-      "available": true,
-      "lat": -23.6129419,
-      "lng": -46.6444185
+      "available": false,
+      "lat": -23.6022332,
+      "lng": -46.6507007
     },
     {
       "id": "shopping-mooca-plaza-r-capitao-pacheco-e-chaves-313-03126000",
@@ -1274,7 +1274,7 @@
       "address": "R. Capitão Pacheco E Chaves, 313",
       "city": "São Paulo",
       "zip": "03126-000",
-      "available": true,
+      "available": false,
       "lat": -23.5797396,
       "lng": -46.5942462
     },
@@ -1284,7 +1284,7 @@
       "address": "Rua Augusta, 2611",
       "city": "São Paulo",
       "zip": "01413-100",
-      "available": true,
+      "available": false,
       "lat": -23.5639342,
       "lng": -46.6661841
     },
@@ -1294,7 +1294,7 @@
       "address": "Av das Nações Unidas, 15187",
       "city": "São Paulo",
       "zip": "04794-000",
-      "available": true,
+      "available": false,
       "lat": -23.6286284,
       "lng": -46.7120243
     },
@@ -1304,9 +1304,9 @@
       "address": "Av. Pedroso de Morais, 1556",
       "city": "São Paulo",
       "zip": "05420-002",
-      "available": true,
-      "lat": -23.5588734,
-      "lng": -46.6982179
+      "available": false,
+      "lat": -23.5556961,
+      "lng": -46.7046821
     },
     {
       "id": "ilr-sp-rua-cerro-cora-1556-05061300",
@@ -1314,7 +1314,7 @@
       "address": "Rua Cerro Corá, 1556",
       "city": "São Paulo",
       "zip": "05061-300",
-      "available": true,
+      "available": false,
       "lat": -23.5359029,
       "lng": -46.7098716
     },
@@ -1324,7 +1324,7 @@
       "address": "Av. Alcântara Machado, 1884",
       "city": "São Paulo",
       "zip": "03102-004",
-      "available": true,
+      "available": false,
       "lat": -23.5503599,
       "lng": -46.6063046
     },
@@ -1334,7 +1334,7 @@
       "address": "Av. Conselheiro Moreira De Barros, 2780",
       "city": "São Paulo",
       "zip": "02430-001",
-      "available": true
+      "available": false
     },
     {
       "id": "shop-aricanduva-leste-av-aricanduva-5555-03527900",
@@ -1342,7 +1342,7 @@
       "address": "Av. Aricanduva, 5555",
       "city": "São Paulo",
       "zip": "03527-900",
-      "available": true,
+      "available": false,
       "lat": -23.5659937,
       "lng": -46.504011
     },
@@ -1352,7 +1352,7 @@
       "address": "Av. Dr. Francisco Mesquita, 1000",
       "city": "São Paulo",
       "zip": "03153-001",
-      "available": true,
+      "available": false,
       "lat": -23.5936129,
       "lng": -46.5856244
     },
@@ -1362,7 +1362,7 @@
       "address": "Av. Aricanduva, 5555",
       "city": "São Paulo",
       "zip": "03527-900",
-      "available": true,
+      "available": false,
       "lat": -23.5659937,
       "lng": -46.504011
     },
@@ -1372,7 +1372,7 @@
       "address": "Rod. Raposo Tavares Km 14,5",
       "city": "São Paulo",
       "zip": "05577-200",
-      "available": true
+      "available": false
     },
     {
       "id": "morumbi-shop-av-roque-petroni-junior-1089-04707900",
@@ -1380,7 +1380,7 @@
       "address": "Av. Roque Petroni Júnior, 1089",
       "city": "São Paulo",
       "zip": "04707-900",
-      "available": true,
+      "available": false,
       "lat": -23.6234167,
       "lng": -46.6985436
     },
@@ -1390,9 +1390,9 @@
       "address": "Av. Giovanni Gronchi, 6600",
       "city": "São Paulo",
       "zip": "05724-002",
-      "available": true,
-      "lat": -23.6277991,
-      "lng": -46.7359112
+      "available": false,
+      "lat": -23.6289429,
+      "lng": -46.7361067
     },
     {
       "id": "fs-sp-rua-pedro-durante-48-05830330",
@@ -1400,7 +1400,7 @@
       "address": "Rua Pedro Durante, 48",
       "city": "São Paulo",
       "zip": "05830-330",
-      "available": true,
+      "available": false,
       "lat": -23.671501,
       "lng": -46.7428396
     },
@@ -1410,9 +1410,9 @@
       "address": "Rua Rubem Souto de Araújo, 1011",
       "city": "São Paulo",
       "zip": "04836-235",
-      "available": true,
-      "lat": -23.7395649,
-      "lng": -46.7080855
+      "available": false,
+      "lat": -23.7405433,
+      "lng": -46.7070807
     },
     {
       "id": "fs-sp-av-moreira-guimaraes-700-04074020",
@@ -1420,7 +1420,7 @@
       "address": "Av. Moreira Guimarães, 700",
       "city": "São Paulo",
       "zip": "04074-020",
-      "available": true,
+      "available": false,
       "lat": -23.6117586,
       "lng": -46.6568563
     },
@@ -1430,7 +1430,7 @@
       "address": "Av. Vicente Rao, 1700",
       "city": "São Paulo",
       "zip": "04636-001",
-      "available": true,
+      "available": false,
       "lat": -23.6381694,
       "lng": -46.6773359
     },
@@ -1440,9 +1440,9 @@
       "address": "Av. Corifeu De Azevedo Marques, 4160",
       "city": "São Paulo",
       "zip": "05340-002",
-      "available": true,
-      "lat": -23.5582646,
-      "lng": -46.7477913
+      "available": false,
+      "lat": -23.5585028,
+      "lng": -46.7476268
     },
     {
       "id": "shop-eldorado-av-reboucas-3970-05402600",
@@ -1450,7 +1450,7 @@
       "address": "Av. Rebouças, 3970",
       "city": "São Paulo",
       "zip": "05402-600",
-      "available": true,
+      "available": false,
       "lat": -23.5737033,
       "lng": -46.6958894
     },
@@ -1460,9 +1460,9 @@
       "address": "Estr. De Itapecirica, 459",
       "city": "São Paulo",
       "zip": "05777-001",
-      "available": true,
-      "lat": -23.6737408,
-      "lng": -46.8562416
+      "available": false,
+      "lat": -23.6707506,
+      "lng": -46.8559345
     },
     {
       "id": "shop-sp-market-av-nacoes-unidas-22540-04795000",
@@ -1470,7 +1470,7 @@
       "address": "Av. Nações Unidas, 22540",
       "city": "São Paulo",
       "zip": "04795-000",
-      "available": true,
+      "available": false,
       "lat": -23.6803083,
       "lng": -46.6990615
     },
@@ -1480,7 +1480,7 @@
       "address": "R. Frei Gaspar, 365",
       "city": "São Vicente",
       "zip": "11310-060",
-      "available": true,
+      "available": false,
       "lat": -23.9680038,
       "lng": -46.3839244
     },
@@ -1490,7 +1490,7 @@
       "address": "Avenida Antônio Paschoal, 1447",
       "city": "Sertãozinho",
       "zip": "14160-500",
-      "available": true,
+      "available": false,
       "lat": -21.1420447,
       "lng": -47.9889971
     },
@@ -1500,7 +1500,7 @@
       "address": "Av. Antônio Carlos Comitre, S/N",
       "city": "Sorocaba",
       "zip": "18047-620",
-      "available": true,
+      "available": false,
       "lat": -23.5187698,
       "lng": -47.4642975
     },
@@ -1510,7 +1510,7 @@
       "address": "Rod. Régis Bittencourt Km 271,5",
       "city": "Taboão da Serra",
       "zip": "06768-200",
-      "available": true
+      "available": false
     },
     {
       "id": "shop-park-sul-rod-dos-metalurgicos-1189-27253005",
@@ -1518,7 +1518,7 @@
       "address": "Rod. Dos Metalúrgicos, 1189",
       "city": "Volta Redonda",
       "zip": "27253-005",
-      "available": true
+      "available": false
     }
   ]
 }
